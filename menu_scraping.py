@@ -81,7 +81,7 @@ driver.quit() #tutup webdriver
 
 # kfc
 driver = webdriver.Chrome()
-url = "https://kfcku.com/food"
+url = "https://food.grab.com/id/id/restaurant/kfc-prapatan-tugu-tani-delivery/IDGFSTI00000fea"
 menu_list = []
 driver.get(url) #buka halaman google image sesuai pencarian
 SCROLL_PAUSE_TIME = 2
@@ -101,7 +101,7 @@ while True:
     if new_height == last_height:
         break
     last_height = new_height
-p_tags =  driver.find_elements(By.CSS_SELECTOR, "span.zoom--item") #ambil semua tag img
+p_tags =  driver.find_elements(By.CSS_SELECTOR, "p.itemNameTitle___1sFBq") #ambil semua tag img
 
 counter = 1
 
@@ -115,16 +115,15 @@ for p_tag in p_tags:
         menu_dict = mydict.get('Menu')
         menu_dict.append(menu_name)
         mydict.update( {'Company' : company_dict, 'Menu' : menu_dict})
-        #df2 = {'Company': 'KFC', 'Menu' : menu_name}
+        #df2 = {'Company': 'Burger King', 'Menu' : menu_name}
         #df = df.append(df2, ignore_index = True)
-        #df.append(pd.Series(['KFC', menu_name ]), ignore_index=True)
+        #df.append(pd.Series(['Burger King', menu_name ]), ignore_index=True)
         
     except:
         print("no alt attribute")
 print(menu_list)
 driver.close() 
 driver.quit() #tutup webdriver
-
 
 #pizza hut
 
@@ -1251,6 +1250,100 @@ for p_tag in p_tags:
 print(menu_list)
 driver.close() 
 driver.quit() #tutup webdriver
+
+#taco bell
+driver = webdriver.Chrome()
+url = "https://food.grab.com/id/id/restaurant/taco-bell-senopati-delivery/6-C2VUFAKJAZB2TA"
+menu_list = []
+driver.get(url) #buka halaman google image sesuai pencarian
+SCROLL_PAUSE_TIME = 2
+
+# Get scroll height
+last_height = driver.execute_script("return document.body.scrollHeight")
+
+while True:
+    # Scroll down to bottom
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+    # Wait to load page
+    time.sleep(SCROLL_PAUSE_TIME)
+
+    # Calculate new scroll height and compare with last scroll height
+    new_height = driver.execute_script("return document.body.scrollHeight")
+    if new_height == last_height:
+        break
+    last_height = new_height
+p_tags =  driver.find_elements(By.CSS_SELECTOR, "p.itemNameTitle___1sFBq") #ambil semua tag img
+
+counter = 1
+
+print(len(p_tags), "jumlah tag img")
+for p_tag in p_tags:
+    try:
+        menu_name = p_tag.text
+        menu_list.append(menu_name)
+        company_dict = mydict.get('Company')
+        company_dict.append('Taco Bell')
+        menu_dict = mydict.get('Menu')
+        menu_dict.append(menu_name)
+        mydict.update( {'Company' : company_dict, 'Menu' : menu_dict})
+        #df2 = {'Company': 'Richeese Factory', 'Menu' : menu_name}
+        #df = df.append(df2, ignore_index = True)
+        #df.append(pd.Series(['Richeese Factory', menu_name ]), ignore_index=True)
+        
+    except:
+        print("no alt attribute")
+print(menu_list)
+driver.close() 
+driver.quit() #tutup webdriver
+
+#subway
+driver = webdriver.Chrome()
+url = "https://food.grab.com/id/id/restaurant/subway-harmoni-exchange-delivery/6-C35EMEJVTUUCAJ"
+menu_list = []
+driver.get(url) #buka halaman google image sesuai pencarian
+SCROLL_PAUSE_TIME = 2
+
+# Get scroll height
+last_height = driver.execute_script("return document.body.scrollHeight")
+
+while True:
+    # Scroll down to bottom
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+    # Wait to load page
+    time.sleep(SCROLL_PAUSE_TIME)
+
+    # Calculate new scroll height and compare with last scroll height
+    new_height = driver.execute_script("return document.body.scrollHeight")
+    if new_height == last_height:
+        break
+    last_height = new_height
+p_tags =  driver.find_elements(By.CSS_SELECTOR, "p.itemNameTitle___1sFBq") #ambil semua tag img
+
+counter = 1
+
+print(len(p_tags), "jumlah tag img")
+for p_tag in p_tags:
+    try:
+        menu_name = p_tag.text
+        menu_list.append(menu_name)
+        company_dict = mydict.get('Company')
+        company_dict.append('Subway')
+        menu_dict = mydict.get('Menu')
+        menu_dict.append(menu_name)
+        mydict.update( {'Company' : company_dict, 'Menu' : menu_dict})
+        #df2 = {'Company': 'Richeese Factory', 'Menu' : menu_name}
+        #df = df.append(df2, ignore_index = True)
+        #df.append(pd.Series(['Richeese Factory', menu_name ]), ignore_index=True)
+        
+    except:
+        print("no alt attribute")
+print(menu_list)
+driver.close() 
+driver.quit() #tutup webdriver
+
+
 df = pd.DataFrame(mydict)
 print(df)
 df.to_csv('fast_food_indonesia.csv')
