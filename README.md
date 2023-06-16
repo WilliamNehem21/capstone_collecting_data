@@ -1,3 +1,6 @@
+# Note :
+### For the Junkfood Classification Final Model, it's in the Master branch
+
 # Dataset and References
 
 ## dataset
