@@ -5,7 +5,7 @@ Created on Wed May 17 16:43:58 2023
 
 @author: williamnehemia
 """
-
+# referensi https://serpapi.com/blog/scrape-google-images-with-python/
 
 
 import requests, lxml, re, json, urllib.request
