@@ -6,13 +6,7 @@ Created on Thu May 18 18:41:07 2023
 @author: williamnehemia
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 17 16:43:58 2023
-
-@author: williamnehemia
-"""
+# referensi https://serpapi.com/blog/scrape-google-images-with-python/
 
 
 
