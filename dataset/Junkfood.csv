@@ -1,0 +1,320 @@
+,Company,Jenis,Menu,Calories
+0,McDonald's,Burger,Egg and Cheese Muffin,295
+1,McDonald's,Burger,Chicken Muffin,390
+2,McDonald's,Burger,Sausage McMuffin,281.44.00
+3,McDonald's,Burger,Egg McMuffin,283.46.00
+4,McDonald's,Burger,Chicken Muffin with Egg,356
+5,McDonald's,Burger,Sausage McMuffin with Egg,290.42.00
+6,McDonald's,Burger,Big Mac®,540
+7,McDonald's,Burger,Triple Cheeseburger,520
+8,McDonald's,Burger,Double Cheeseburger,430
+9,McDonald's,Burger,Cheeseburger Deluxe,340
+10,McDonald's,Burger,Cheeseburger with Egg,390
+11,McDonald's,Burger,Cheeseburger,307
+12,McDonald's,Burger,Beef Burger,258
+13,McDonald's,Fried chicken,Ayam Krispy McDonald's,223/100 gr
+14,McDonald's,Fried chicken,Ayam Spicy McDonald's,248.76
+15,McDonald's,Burger,Chicken Burger,292
+16,McDonald's,Burger,McSpicy™,237.4
+17,McDonald's,Burger,McChicken,350
+18,McDonald's,Burger,Fish Fillet Burger,390
+19,McDonald's,French fries,French Fries,373/510
+20,KFC,Burger,Original Recipe Chicken Drumstick,160
+21,KFC,Burger,Original Recipe Chicken Thigh,287
+22,KFC,Burger,Original Recipe Chicken Rib,275
+23,KFC,Burger,Original Recipe Chicken Breast,342
+24,KFC,Burger,Original Recipe Chicken Wing,188
+25,KFC,Burger,Hot & Spicy Chicken Drumstick,179
+26,KFC,Burger,Hot & Spicy Chicken Thigh,313
+27,KFC,Burger,Hot & Spicy Chicken Rib,328
+28,KFC,Burger,Hot & Spicy Chicken Breast,353
+29,KFC,Burger,Hot & Spicy Chicken Wing,204
+30,KFC,Burger,Crispy Strips,123
+31,KFC,Burger,Crispy Burger,285
+32,KFC,Burger,OR Burger Single,382
+33,KFC,French fries,Fun Fries,190
+34,KFC,Burger,Colonel Burger,489
+35,KFC,French fries,French Fries Reguler,257
+36,KFC,French fries,French Fries Large,380
+37,KFC,Burger,Fish Burger,480
+38,Pizza Hut,Pizza,1 slice of large original pan BEEF BBQ,410
+39,Pizza Hut,Pizza,1 slice of medium original pan BEEF BBQ,280
+40,Pizza Hut,Pizza,1 slice of personal original pan BEEF BBQ,170
+41,Pizza Hut,Pizza,1 slice of Meat Feast - Sharing Pan (13-Inch) ,296
+42,Pizza Hut,Pizza,Thin Pizza Margherita,434
+43,Pizza Hut,Pizza,Pan Pizza Margherita,434
+44,Pizza Hut,Pizza,1 slice of Pepperoni Feast - Individual Stuffed Crust (11-Inch),241
+45,Pizza Hut,Pizza,1 slice of Chicken Supreme - Sharing Pan (13-Inch),268
+46,Pizza Hut,Pizza,1 slice of Margherita - Sharing Thin (14-Inch),192
+47,Pizza Hut,Pizza,1 slice of Veggie - Individual Pan (9-Inch),162
+48,Pizza Hut,Pizza,1 slice of Margherita - Sharing Stuffed Crust (14-Inch),285
+49,Pizza Hut,Pizza,1 slice of Hawaiian - Sharing Pan (13-Inch) ,255
+50,Pizza Hut,Pizza,1 slice of Meat Feast - Individual Thin (11-Inch),174
+51,Pizza Hut,Pizza,1 slice of Veggie - Sharing Pan (13-Inch),251
+52,Pizza Hut,Pizza,1 slice of Supreme - Cheesy Bites (14-Inch),317
+53,Pizza Hut,Pizza,1 slice of Margherita - Individual Pan (9-Inch),171
+54,Pizza Hut,Pizza,1 slice of Meat Feast - Individual Pan (9-Inch),190
+55,Pizza Hut,Pizza,1 slice of Supreme - Sharing Pan (13-Inch),294
+56,Pizza Hut,Pizza,1 slice of Margherita - Individual Thin (11-Inch),155
+57,Pizza Hut,Pizza,1 slice of Veggie Pepperphoni Feast - Individual Stuffed Crust (11-Inch),221
+58,Pizza Hut,Pizza,1 slice of Veggie - Individual Thin (11-Inch),146
+59,Pizza Hut,Pizza,1 slice of Hot 'N' Spicy Chicken - Sharing Stuffed Crust (14-Inch),315
+60,Pizza Hut,Pizza,1 slice of BBQ Americano - Sharing Stuffed Crust (14-Inch),320
+61,Pizza Hut,Pizza,1 slice of Meat Feast Hot - Individual Pan (9-Inch),211
+62,Pizza Hut,Pizza,1 slice of Pepperoni Feast - Sharing Thin (14-Inch) ,208
+63,Pizza Hut,Pizza,1 slice of Chicken Supreme - Individual Pan (9-Inch),172
+64,Pizza Hut,Pizza,1 slice of Pepperoni Feast - Individual Thin (11-Inch),165
+65,Pizza Hut,Pizza,1 slice of SUPER SUPREME,170
+66,Pizza Hut,Pizza,1 slice of MEAT LOVERS,210
+67,Pizza Hut,Pizza,1 slice of PEPPERONI,320
+68,Pizza Hut,Pizza,1 slice of TUNA MELT,250
+69,Pizza Hut,Pizza,1 slice of CHEESE LOVERS,296
+70,Pizza Hut,Fried chicken,1 wing WINGSTREET,80
+71,Domino's Pizza,Fried chicken,1 pcs CHICKEN WINGS ,74.8
+72,Domino's Pizza,Pizza,small EXTRAVAGANZZA,118
+73,Domino's Pizza,Pizza,1 slice of medium EXTRAVAGANZZA,244
+74,Domino's Pizza,Pizza,1 slice of larga EXTRAVAGANZZA,380
+75,Domino's Pizza,Pizza,1 slice of MEATZZA,217
+76,Domino's Pizza,Pizza,1 slice of VEGGIE MANIA,190
+77,Domino's Pizza,Pizza,1 slice of CHICKEN DELIGHT,118
+78,Domino's Pizza,Pizza,1 slice of DOUBLE BEEF BURGER,141
+79,Domino's Pizza,Pizza,1 slice of BEEF PEPPERONI FEAST,370
+80,Domino's Pizza,Pizza,1 slice of TUNA DELIGHT,184
+81,Domino's Pizza,Pizza,"Deep Dish Pizza (6"")",598
+82,Domino's Pizza,Pizza,Lg Deep Dish Cheese Pizza,455
+83,Domino's Pizza,Pizza,Lg Hand Tossed Cheese Pizza,374
+84,Domino's Pizza,Pizza,Lg Thin Crust Pizza,273
+85,Domino's Pizza,Pizza,1 slice of Pepperoni Passion,213
+86,Domino's Pizza,Pizza,1 slice of Vegi Supreme,180
+87,Domino's Pizza,Pizza,1 slice of Original Cheese and Tomato - Classic Crust - Large (Standard Mozzarella),217
+88,Domino's Pizza,Pizza,1 slice of Texas BBQ,200
+89,Domino's Pizza,Pizza,1 slice of Pepperoni Passion - Classic Crust - Large (Standard Mozzarella),264
+90,Domino's Pizza,Pizza,1 slice of Texas BBQ - Classic Crust - Large (Standard Mozzarella),231
+91,Domino's Pizza,Pizza,1 slice of Original Cheese and Tomato - Stuffed Crust - Medium (Standard Mozzarella),225
+92,Domino's Pizza,Pizza,1 slice of Mighty Meaty,180
+93,Domino's Pizza,Pizza,1 slice of Original Cheese and Tomato - Classic Crust - Medium (Standard Mozzarella),202
+94,Domino's Pizza,Pizza,1 slice of American Hot - Classic Crust - Large (Standard Mozzarella),233
+95,Domino's Pizza,Pizza,1 slice of Pepperoni Passion - Classic Crust - Medium (Standard Mozzarella),249
+96,Domino's Pizza,Pizza,1 slice of MARGHERITA,115
+97,Burger King,Burger,Cheeseburger Supreme,286
+98,Burger King,Burger,Cheese Whopper®,760
+99,Burger King,Burger,Cheese Whopper® JR,380
+100,Burger King,Burger,Double Cheeseburger,390
+101,Burger King,Burger,Royal Chicken Burger,570
+102,Burger King,Burger,Whopper®,370
+103,Burger King,Burger,Cheeseburger,280
+104,Burger King,Fried chicken,Ayam Crispy,450
+105,Burger King,French fries,Medium Fries,380
+106,Burger King,Burger,Chicken Burger,480
+107,Burger King,French fries,Fries Large,430
+108,Burger King,French fries,Chessy Fries Medium,228
+109,Wendy's,Burger,Double Stacker A,390
+110,Wendy's,Burger,Single Dave's,570
+111,Wendy's,Burger,Double Dave's,810
+112,Wendy's,Burger,Cheese Beefanator,960
+113,Wendy's,Burger,Homestyle Chicken,510
+114,Wendy's,French fries,French Fries Medium,239
+115,Wendy's,French fries,French Fries Large,299
+116,Wendy's,Burger,Beef Burger,240
+117,Wendy's,Burger,Cheeseburger,280
+118,Wendy's,Burger,Crispy Chicken Burger,350
+119,Wendy's,French fries,Chili Cheese Fries,530
+120,Wendy's,Baked Potato,Baked Potato Cheese n' Cheese,450
+121,Wendy's,Baked Potato,Baked Potato Broccoli n' Cheese,430
+122,Wendy's,Baked Potato,Baked Potato Bolognese,405
+123,Carl's Jr.,Burger,Portobello Mushroom,567
+124,Carl's Jr.,Burger,Memphis BBQ,830
+125,Carl's Jr.,Burger,Famous Star,610
+126,Carl's Jr.,Burger,Superstar with Cheese,920
+127,Carl's Jr.,Burger,Cheeseburger,380
+128,Carl's Jr.,Burger,California Classic,650
+129,Carl's Jr.,French fries,Chili Cheese Fries (R),810
+130,Carl's Jr.,French fries,Skin-on Fries (M),430
+131,J.CO Donuts & Coffee,Donut,1 Alcapone,214
+132,J.CO Donuts & Coffee,Donut,1 Tiramisu,242
+133,J.CO Donuts & Coffee,Donut,1 Caviar Chocolate,197
+134,J.CO Donuts & Coffee,Donut,1 Oreology,161
+135,J.CO Donuts & Coffee,Donut,1 Avocado DI Caprio,259
+136,J.CO Donuts & Coffee,Donut,1 Sugar Ice,110
+137,J.CO Donuts & Coffee,Donut,1 Coco Loco,243
+138,J.CO Donuts & Coffee,Donut,1 Cheese Cakelicious,236
+139,J.CO Donuts & Coffee,Donut,1 Crunchy Crunchy,176
+140,J.CO Donuts & Coffee,Donut,1 Blueberry More,262
+141,J.CO Donuts & Coffee,Donut,1 Black Swan,316
+142,J.CO Donuts & Coffee,Donut,1 Glazzy,129
+143,J.CO Donuts & Coffee,Donut,1 Jacky Chunk,231
+144,J.CO Donuts & Coffee,Donut,1 pcs,250
+145,Starbucks,Sandwich,Peanut Butter Panini Sandwich,426
+146,Starbucks,Sandwich,Tuna Cheese Whole Wheat Panini,390
+147,Starbucks,Sandwich,Beef Filone Sandwich,350
+148,Starbucks,Sandwich,Classic Tuna Toastie,327
+149,Dunkin' Donuts,Sandwich,Scramble Egg with Cheese,460
+150,Dunkin' Donuts,Donut,1 Apple Cider Donut,380
+151,Dunkin' Donuts,Donut,1 Apple Crumb Donut,320
+152,Dunkin' Donuts,Donut,1 Apple n Spice Donut,260
+153,Dunkin' Donuts,Donut,1 Apple Stick,420
+154,Dunkin' Donuts,Donut,1 Bavarian Creme Donut,270
+155,Dunkin' Donuts,Donut,1 Berry Powdered Donut,330
+156,Dunkin' Donuts,Donut,1 Bismark,490
+157,Dunkin' Donuts,Donut,1 Boston Kreme Donut,300
+158,Dunkin' Donuts,Donut,1 Brownie Batter Donut,330
+159,Dunkin' Donuts,Donut,1 Butternut Donut,410
+160,Dunkin' Donuts,Donut,1 Caramel Chocoholic Donut,400
+161,Dunkin' Donuts,Donut,1 Celebration Donut,520
+162,Dunkin' Donuts,Donut,1 Chocolate Butternut Donut,410
+163,Dunkin' Donuts,Donut,1 Chocolate Coconut Donut,400
+164,Dunkin' Donuts,Donut,1 Chocolate Creme Donut,320
+165,Dunkin' Donuts,Donut,1 Chocolate Dipped French Cruller,310
+166,Dunkin' Donuts,Donut,1 Chocolate Frosted Cake Donut,350
+167,Dunkin' Donuts,Donut,1 Chocolate Frosted Donut,280
+168,Dunkin' Donuts,Donut,1 Chocolate Frosted Donut with Sprinkles,290
+169,Dunkin' Donuts,Donut,1 Chocolate Headlight Donut,330
+170,Dunkin' Donuts,Donut,1 Chocolate LongJohn,340
+171,Dunkin' Donuts,Donut,1 Cinnamon Donut,310
+172,Dunkin' Donuts,Donut,1 Cinnamon Stick,380
+173,Dunkin' Donuts,Donut,1 Coconut Donut,400
+174,Dunkin' Donuts,Donut,1 Coffee Roll,390
+175,Dunkin' Donuts,Donut,1 Cookie Dough and Brownie Batter Double Filled Donut,480
+176,Dunkin' Donuts,Donut,1 Cornbread Donut,380
+177,Dunkin' Donuts,Donut,1 Cupids Choice Donut,290
+178,Dunkin' Donuts,Donut,1 Dear Santa Donut,350
+179,Dunkin' Donuts,Donut,1 Double Chocolate Donut,350
+180,Dunkin' Donuts,Donut,1 Dunkfetti Donut,490
+181,Dunkin' Donuts,Donut,1 Eclair,380
+182,Dunkin' Donuts,Donut,1 French Cruller,260
+183,Dunkin' Donuts,Donut,1 Frosted Snowflake Donut,270
+184,Dunkin' Donuts,Donut,1 Frosted Vanilla Creme Donut,360
+185,Dunkin' Donuts,Donut,1 Glazed Blueberry Donut,340
+186,Dairy Queen,Hotdog,Original Dog,300
+187,Dairy Queen,Hotdog,Cheese Dog,340
+188,Texas Chicken,French fries,Fries,300
+189,Texas Chicken,Fried chicken,1pt Ayam (ORI/SPC),110
+190,Popeyes Louisiana Kitchen,Burger,Classic Chicken Sandwich,753
+191,Popeyes Louisiana Kitchen,Fried chicken,Classic Chicken,317
+192,Popeyes Louisiana Kitchen,Fried chicken,New Orleans Spicy Chicken ,
+193,Popeyes Louisiana Kitchen,Burger,Spicy Chicken Sandwich ,700
+194,Popeyes Louisiana Kitchen,Burger,Spicy Chicken Sandwich ,782
+195,Popeyes Louisiana Kitchen,French fries,Cajun Fries Large,770
+196,Popeyes Louisiana Kitchen,French fries,Cajun Fries Regular,260
+197,A&W Restaurants,Fried chicken,Golden Aroma Chicken,277
+198,A&W Restaurants,Burger,Mozza Burger,620
+199,A&W Restaurants,Burger,Cheese Burger,400
+200,A&W Restaurants,Burger,Beef Burger,342
+201,A&W Restaurants,Burger,Fish Sandwich,574
+202,A&W Restaurants,Burger,Chicken Sandwich,410
+203,A&W Restaurants,Burger,Veggie Burger,410
+204,A&W Restaurants,French fries,Curly Fries,266
+205,A&W Restaurants,French fries,French Fries Regular,310
+206,Krispy Kreme,Donut,1 Original Glazed Doughnut,190
+207,Krispy Kreme,Donut,1 Classic Cinnamon,190
+208,Krispy Kreme,Donut,1 Oreo Chocolate Cream,390
+209,Krispy Kreme,Donut,1 Glazed Chocolate Cake,250
+210,Krispy Kreme,Donut,1 Chocolate Iced Glazed Doughnut,240
+211,Krispy Kreme,Donut,1 ChocolateIced Doughnut with Kreme Filling,350
+212,Krispy Kreme,Donut,1 Chocolate Iced Doughnut with Custard Filling,300
+213,Krispy Kreme,Donut,1 Glazed Cake Donut Holes,190
+214,Krispy Kreme,Donut,1 Apple Fritter,350
+215,Krispy Kreme,Donut,1 Glazed Raspberry Filled Doughnut,290
+216,Krispy Kreme,Donut,1 Glazed Donut with Kreme Filling,340
+217,Krispy Kreme,Donut,1 Sugar Donut,180
+218,Krispy Kreme,Donut,1 Maple Iced Glazed Doughnut,240
+219,Krispy Kreme,Donut,1 Cinnamon Twist,210
+220,Krispy Kreme,Donut,1 Cinnamon Apple Filled Donut,270
+221,Krispy Kreme,Donut,1 Glazed Blueberry Cake Doughnut,300
+222,Krispy Kreme,Donut,1 Glazed Lemon Filled Doughnut,290
+223,Krispy Kreme,Donut,1 Chocolate Iced Cake Donut,340
+224,Krispy Kreme,Donut,1 Powdered Strawberry Filled Doughnut,270
+225,Krispy Kreme,Donut,1 Cinnamon Bun,270
+226,Krispy Kreme,Donut,1 Cinnamon Sugar Doughnut,190
+227,Krispy Kreme,Donut,1 Glazed Chocolate Cake Donut Holes,170
+228,Krispy Kreme,Donut,1 Glazed Sour Cream Donut,300
+229,Krispy Kreme,Donut,1 Chocolate Iced Glazed Doughnut with Sprinkles,250
+230,Krispy Kreme,Donut,1 New York Cheesecake Donut,320
+231,Krispy Kreme,Donut,1 Pumpkin Cheesecake Donut,260
+232,Krispy Kreme,Donut,1 Powdered Blueberry Filled Donut,270
+233,Krispy Kreme,Donut,1 Chocolate Iced Raspberry Filled Doughnut,310
+234,Krispy Kreme,Donut,1 Sea Salt Caramel Doughnut,370
+235,Krispy Kreme,Donut,1 Strawberry Iced Donut,190
+236,Krispy Kreme,Donut,1 Cake Batter Conversation Heart Donut,340
+237,Krispy Kreme,Donut,1 Chocolate Kreme Conversation Heart Donut,340
+238,Krispy Kreme,Donut,1 Raspberry Filled Conversation Heart Doughnut,290
+239,Krispy Kreme,Donut,1 lusin Original Glazed,2280
+240,Krispy Kreme,Donut,1/2 lusin Original Glazed,1140
+241,Krispy Kreme,Donut,1 Traditional Cake Doughnut,290
+242,Krispy Kreme,Donut,1 Strawberry Shortcake Doughnut,360
+243,Krispy Kreme,Donut,1 Strawberry Iced Glazed Doughnut,190
+244,Krispy Kreme,Donut,1 Strawberry Iced Doughnut with Sprinkles,210
+245,Krispy Kreme,Donut,1 S’mores Fudge Cake Doughnut,360
+246,Krispy Kreme,Donut,1 S’mores Classic Doughnut,350
+247,Krispy Kreme,Donut,1 Reese’s Classic Doughnut,410
+248,Krispy Kreme,Donut,1 Cinnamon Apple Filled Doughnut,270
+249,Krispy Kreme,Donut,1 Cinnamon Bun Doughnut,270
+250,Krispy Kreme,Donut,1 Cinnamon Sugar Doughnut,190
+251,Krispy Kreme,Donuts,1 Cinnamon Twist Doughnut,210
+252,Wingstop,Fried chicken,1 Plain Wings,50
+253,Wingstop,Fried chicken,1 Atomic Wings,52.5
+254,Wingstop,Fried chicken,1 Mango Habanero Wings,59.5
+255,Wingstop,Fried chicken,1 Cajun Wings,51
+256,Wingstop,Fried chicken,1 Original Hot Wings,51.5
+257,Wingstop,Fried chicken,1 Mild Wings,72.5
+258,Wingstop,Fried chicken,1 Hickory Smoked BBQ Wings,66
+259,Wingstop,Fried chicken,1 Garlic Parmesan Wings,82.5
+260,Wingstop,Fried chicken,1 Hawaiian Wings,58
+261,Wingstop,Fried chicken,1 Lemon Pepper Wings,70.5
+262,Wingstop,Fried chicken,1 Louisiana Rub Wings,70.5
+263,Wingstop,Fried chicken,1 Teriyaki Wings,60.5
+264,Wingstop,Fried chicken,1 Plain Boneless Wings,80.5
+265,Wingstop,Fried chicken,1 Atomic Boneless Wings,83
+266,Wingstop,Fried chicken,1 Mango Habanero Boneless Wings,91.5
+267,Wingstop,Fried chicken,1 Cajun Boneless Wings,81.5
+268,Wingstop,Fried chicken,1 Original Hot Boneless Wings,81.5
+269,Wingstop,Fried chicken,1 Mild Boneless Wings,105.5
+270,Wingstop,Fried chicken,1 Hickory Smoked BBQ Boneless Wings,98
+271,Wingstop,Fried chicken,1 Garlic Parmesan Boneless Wings,108.5
+272,Wingstop,Fried chicken,1 Hawaiian Boneless Wings,89.5
+273,Wingstop,Fried chicken,1 Lemon Pepper Boneless Wings,103
+274,Wingstop,Fried chicken,1 Louisiana Rub Boneless Wings,95.5
+275,Wingstop,Fried chicken,1 Teriyaki Boneless Wings,90.5
+276,Wingstop,Fried chicken,1 Plain Boneless Strips,94.5
+277,Wingstop,Fried chicken,1 Atomic Boneless Strips,101
+278,Wingstop,Fried chicken,1 Mango Habanero Boneless Strips,117
+279,Wingstop,Fried chicken,1 Cajun Boneless Strips,97
+280,Wingstop,Fried chicken,1 Original Hot Boneless Strips,96.5
+281,Wingstop,Fried chicken,1 Mild Boneless Strips,153.5
+282,Wingstop,Fried chicken,1 Hickory Smoked BBQ Boneless Strips,125
+283,Wingstop,Fried chicken,1 Garlic Parmesan Boneless Strips,162.5
+284,Wingstop,Fried chicken,1 Hawaiian Boneless Strips,112.5
+285,Wingstop,Fried chicken,1 Lemon Pepper Boneless Strips,144.5
+286,Wingstop,Fried chicken,1 Louisiana Rub Boneless Strips,162
+287,Wingstop,Fried chicken,1 Teriyaki Boneless Strips,115.5
+288,Wingstop,Fried chicken,Boneless Wings ,172
+289,Wingstop,Fried chicken,Crunchy Wings ,190
+290,Wingstop,French fries,Cheese Fries Reguler,450
+291,Wingstop,French fries,Cheese Fries Large,800
+292,Richeese Factory,Fried chicken,Richicken ,415
+293,Richeese Factory,Fried chicken,Fire Wings ,102/pcs
+294,Richeese Factory,Fried chicken,Fire Chicken ,380
+295,Richeese Factory,Fried chicken,Drum Stick Fire Chicken,380
+296,Taco Bell,Taco,Crunchy Taco Supreme,190
+297,Taco Bell,Taco,Kickin' Chicken Taco,205
+298,Taco Bell,Taco,Soft Taco Supreme,210
+299,Taco Bell,Taco,Crunchy Taco,170
+300,Taco Bell,Taco,Soft Taco,180
+301,Taco Bell,Taco,Naked Chicken Taco,440
+302,Taco Bell,French fries,Loaded Fries,500
+303,Taco Bell,French fries,Nacho Fries,320
+304,Taco Bell,French fries,Fries,320
+305,Subway,Sandwich,"Veggie Delight 6""",200
+306,Subway,Sandwich,Veggie Delight footlong,400
+307,Subway,Sandwich,"Roasted Chicken 6""",280
+308,Subway,Sandwich,Roasted Chicken footlong,560
+309,Subway,Sandwich,"BBQ Chicken 6""",380
+310,Subway,Sandwich,"Chicken Teriyaki 6""",380
+311,Subway,Sandwich,"Tuna Mayo 6""",288
+312,Subway,Sandwich,"Italian BMT 6""",360
+313,Subway,Sandwich,Italian BMT footlong,720
+314,Subway,Sandwich,Spicy Italian,347
+315,Subway,Sandwich,"Meatball Marinara 6""",410
+316,Subway,Sandwich,Meatball Marinara footlong,820
+317,Subway,Sandwich,Roast Beef,305
+318,Subway,Sandwich,Egg Mayo,474

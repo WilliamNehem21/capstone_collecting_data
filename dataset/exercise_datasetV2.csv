@@ -1,0 +1,249 @@
+"Activity, Exercise or Sport (1 hour)",Intensity Description,Duration (minutes),Calories per kg
+"Cycling, mountain bike, bmx",,60,1.750729719
+"Cycling, <10 mph, leisure bicycling",,60,0.82323563
+"Cycling, >20 mph, racing",,60,3.294973528
+"Cycling, 10-11.9 mph, light",,60,1.234853445
+"Cycling, 12-13.9 mph, moderate",,60,1.647825266
+"Cycling, 14-15.9 mph, vigorous",,60,2.059443081
+"Cycling, 16-19 mph, very fast, racing",,60,2.471060896
+Unicycling,,60,1.02972154
+"Stationary cycling, very light","Refers to very low physical effort, such as stationary cycling at a very slow pace or without additional resistance.",60,0.617426722
+"Stationary cycling, light","Refers to a higher level of physical effort compared to very light intensity, but still relatively light. For example, moderate-paced cycling or using light resistance.",60,1.132625994
+"Stationary cycling, moderate","Refers to a moderate level of physical effort, such as cycling at a fairly high speed or using heavier resistance.",60,1.441339355
+"Stationary cycling, vigorous","Refers to a significant level of physical effort, such as cycling at a high speed or using substantial resistance.",60,2.162347534
+"Stationary cycling, very vigorous","Refers to a very high level of physical effort, such as cycling at a very high speed or using heavy resistance.",60,2.574642352
+"Calisthenics, vigorous, pushups, situps…",Refers to high-intensity calisthenics exercises involving movements like push-ups and sit-ups.,60,1.647825266
+"Calisthenics, light","Involves lighter or lower-intensity calisthenic movements compared to higher levels. For example, squats, lunges, or other bodyweight movements performed at a lower intensity.",60,0.721008179
+"Circuit training, minimal rest",Involves a series of different exercises performed in succession with minimal rest between each exercise.,60,1.647825266
+"Weight lifting, body building, vigorous",Refers to intense weightlifting workouts aimed at bodybuilding and muscle development. These workouts involve heavy weights and high training volume to stimulate muscle growth.,60,1.234853445
+"Weight lifting, light workout","Refers to the use of lighter weights and lower training volume. These workouts may aim to improve muscle endurance, enhance posture, or maintain overall fitness.",60,0.617426722
+Health club exercise,,60,1.132625994
+Stair machine,,60,1.85295717
+"Rowing machine, light",Refers to low-intensity rowing on a rowing machine. This intensity may involve slower movements or lighter resistance during the exercise.,60,0.721008179
+"Rowing machine, moderate",Refers to moderate-intensity rowing on a rowing machine. This intensity may involve faster movements or moderate resistance during the exercise.,60,1.441339355
+"Rowing machine, vigorous","Refers to vigorous-intensity rowing on a rowing machine. This intensity may involve faster movements, greater power, or more intense exercise.",60,1.750729719
+"Rowing machine, very vigorous","Refers to very vigorous-intensity rowing on a rowing machine. This intensity may involve very fast movements, substantial power, or highly intense exercise.",60,2.471060896
+Ski machine,,60,1.441339355
+"Aerobics, low impact",Referring to low-impact aerobic exercises on the joints and body. The movements in this type of aerobic exercise are gentler and do not involve high jumps or leaps.,60,1.02972154
+"Aerobics, high impact","Referring to high-impact aerobic exercises on the joints and body. The movements in this type of aerobic exercise involve high jumps and leaps, such as jumping or performing energetic and intense movements.",60,1.441339355
+"Aerobics, step aerobics",Referring to a type of aerobic exercise that involves using a high step or platform during the workout. The movements involve stepping up and down from the step in a predetermined pattern.,60,1.750729719
+"Aerobics, general","Referring to a general type of aerobic exercise that does not have additional explanations about the impact or specific type. This general aerobic exercise includes various cardiovascular movements such as steps, jumps, arm movements, and energetic body movements.",60,1.338434901
+Jazzercise,,60,1.234853445
+"Stretching, hatha yoga",,60,0.82323563
+Mild stretching,,60,0.515199272
+Instructing aerobic class,,60,1.234853445
+Water aerobics,,60,0.82323563
+"Ballet, twist, jazz, tap",,60,0.92749409
+"Ballroom dancing, slow","Referring to ballroom dances performed with slow and more structured movements. Examples of this type of dance are the Waltz, Foxtrot, and Tango.",60,0.617426722
+"Ballroom dancing, fast",Referring to ballroom dances performed with fast and energetic movements. Examples of dances that can be performed at a high speed are the Quickstep and Jive.,60,1.132625994
+"Running, 5 mph (12 minute mile)",,60,1.647825266
+"Running, 5.2 mph (11.5 minute mile)",,60,1.85295717
+"Running, 6 mph (10 min mile)",,60,2.059443081
+"Running, 6.7 mph (9 min mile)",,60,2.265251988
+"Running, 7 mph (8.5 min mile)",,60,2.368156442
+"Running, 7.5mph (8 min mile)",,60,2.574642352
+"Running, 8 mph (7.5 min mile)",,60,2.779774257
+"Running, 8.6 mph (7 min mile)",,60,2.88267871
+"Running, 9 mph (6.5 min mile)",,60,3.089164621
+"Running, 10 mph (6 min mile)",,60,3.294973528
+"Running, 10.9 mph (5.5 min mile)",,60,3.706591343
+"Running, cross country",,60,1.85295717
+"Running, general",,60,1.647825266
+"Running, on a track, team practice",,60,2.059443081
+"Running, stairs, up",,60,3.089164621
+"Track and field (shot, discus)",,60,0.82323563
+"Track and field (high jump, pole vault)",,60,1.234853445
+Track and field (hurdles),,60,2.059443081
+Archery,,60,0.721008179
+Badminton,,60,0.92749409
+"Basketball game, competitive",,60,1.647825266
+"Playing basketball, non game",,60,1.234853445
+"Basketball, officiating",,60,1.441339355
+"Basketball, shooting baskets",,60,0.92749409
+"Basketball, wheelchair",,60,1.338434901
+"Running, training, pushing wheelchair",,60,1.647825266
+Billiards,,60,0.515199272
+Bowling,,60,0.617426722
+"Boxing, in ring",,60,2.471060896
+"Boxing, punching bag",,60,1.234853445
+"Boxing, sparring",,60,1.85295717
+"Coaching: football, basketball, soccer…",,60,0.82323563
+"Cricket (batting, bowling)",,60,1.02972154
+Croquet,,60,0.515199272
+Curling,,60,0.82323563
+Darts (wall or lawn),,60,0.515199272
+Fencing,,60,1.234853445
+"Football, competitive",,60,1.85295717
+"Football, touch, flag, general",,60,1.647825266
+"Football or baseball, playing catch",,60,0.515199272
+"Frisbee playing, general",,60,0.617426722
+"Frisbee, ultimate frisbee",,60,1.647825266
+"Golf, general",,60,0.92749409
+"Golf, walking and carrying clubs",,60,0.92749409
+"Golf, driving range",,60,0.617426722
+"Golf, miniature golf",,60,0.617426722
+"Golf, walking and pulling clubs",,60,0.885519904
+"Golf, using power cart",,60,0.721008179
+Gymnastics,,60,0.82323563
+Hacky sack,,60,0.82323563
+Handball,,60,2.471060896
+"Handball, team",,60,1.647825266
+"Hockey, field hockey",,60,1.647825266
+"Hockey, ice hockey",,60,1.647825266
+"Riding a horse, general",,60,0.82323563
+"Horesback riding, saddling horse",,60,0.721008179
+"Horseback riding, grooming horse",,60,0.721008179
+"Horseback riding, trotting",,60,1.338434901
+"Horseback riding, walking",,60,0.515199272
+"Horse racing, galloping",,60,1.647825266
+"Horse grooming, moderate",,60,1.234853445
+Horseshoe pitching,,60,0.617426722
+Jai alai,,60,2.471060896
+"Martial arts, judo, karate, jujitsu",,60,2.059443081
+"Martial arts, kick boxing",,60,2.059443081
+"Martial arts, tae kwan do",,60,2.059443081
+Krav maga training,,60,2.059443081
+Juggling,,60,0.82323563
+Kickball,,60,1.441339355
+Lacrosse,,60,1.647825266
+Orienteering,,60,1.85295717
+Playing paddleball,,60,1.234853445
+"Paddleball, competitive",,60,2.059443081
+Polo,,60,1.647825266
+"Racquetball, competitive",,60,2.059443081
+Playing racquetball,,60,1.441339355
+"Rock climbing, ascending rock",,60,2.265251988
+"Rock climbing, rappelling",,60,1.647825266
+"Jumping rope, fast","Referring to jump rope at high speed. The jumping movements are performed quickly and rhythmically, where the rope is spun faster than usual.",60,2.471060896
+"Jumping rope, moderate","Referring to jump rope at a moderate speed. The jumping movements are performed with a moderate rhythm, where the rope is spun at a speed sufficient to maintain consistent jumps.",60,2.059443081
+"Jumping rope, slow","Referring to jump rope at a low speed. The jumping movements are performed with a slow rhythm, where the rope is spun at a speed that allows for lower jumps.",60,1.647825266
+Rugby,,60,2.059443081
+"Shuffleboard, lawn bowling",,60,0.617426722
+Skateboarding,,60,1.02972154
+Roller skating,,60,1.441339355
+"Roller blading, in-line skating",,60,2.471060896
+Sky diving,,60,0.617426722
+"Soccer, competitive",,60,2.059443081
+Playing soccer,,60,1.441339355
+Softball or baseball,,60,1.02972154
+"Softball, officiating",,60,0.82323563
+"Softball, pitching",,60,1.234853445
+Squash,,60,2.471060896
+"Table tennis, ping pong",,60,0.82323563
+Tai chi,,60,0.82323563
+Playing tennis,,60,1.441339355
+"Tennis, doubles",,60,1.234853445
+"Tennis, singles",,60,1.647825266
+Trampoline,,60,0.721008179
+"Volleyball, competitive",,60,1.647825266
+Playing volleyball,,60,0.617426722
+"Volleyball, beach",,60,1.647825266
+Wrestling,,60,1.234853445
+Wallyball,,60,1.441339355
+"Backpacking, Hiking with pack",,60,1.441339355
+"Carrying infant, level ground",,60,0.721008179
+"Carrying infant, upstairs",,60,1.02972154
+"Carrying 16 to 24 lbs, upstairs",,60,1.234853445
+"Carrying 25 to 49 lbs, upstairs",,60,1.647825266
+"Standing, playing with children, light",,60,0.576806543
+"Walk/run, playing with children, moderate",,60,0.82323563
+"Walk/run, playing with children, vigorous",,60,1.02972154
+Carrying small children,,60,0.617426722
+"Loading, unloading car",,60,0.617426722
+"Climbing hills, carrying up to 9 lbs",,60,1.441339355
+"Climbing hills, carrying 10 to 20 lb",,60,1.544920812
+"Climbing hills, carrying 21 to 42 lb",,60,1.647825266
+"Climbing hills, carrying over 42 lb",,60,1.85295717
+Walking downstairs,,60,0.617426722
+"Hiking, cross country",,60,1.234853445
+Bird watching,,60,0.515199272
+"Marching, rapidly, military",,60,1.338434901
+"Children's games, hopscotch, dodgeball",,60,1.02972154
+Pushing stroller or walking with children,,60,0.515199272
+Pushing a wheelchair,,60,0.82323563
+Race walking,,60,1.338434901
+"Rock climbing, mountain climbing",,60,1.647825266
+Walking using crutches,,60,1.02972154
+Walking the dog,,60,0.617426722
+"Walking, under 2.0 mph, very slow",,60,0.411617815
+"Walking 2.0 mph, slow",,60,0.515199272
+Walking 2.5 mph,,60,0.617426722
+"Walking 3.0 mph, moderate",,60,0.679710997
+"Walking 3.5 mph, brisk pace",,60,0.782615451
+"Walking 3.5 mph, uphill",,60,1.234853445
+"Walking 4.0 mph, very brisk",,60,1.02972154
+Walking 4.5 mph,,60,1.297137719
+Walking 5.0 mph,,60,1.647825266
+"Boating, power, speed boat",,60,0.515199272
+"Canoeing, camping trip",,60,0.82323563
+"Canoeing, rowing, light","Referring to kayaking or canoeing at a low-intensity level. For example, it involves slow or relaxed trips in calm waters or with minimal currents.",60,0.617426722
+"Canoeing, rowing, moderate","Referring to kayaking or canoeing at a moderate-intensity level. For example, the trips are done at a moderate speed and may involve more energetic paddling. This activity may involve waters with slight currents or slightly longer journeys.",60,1.441339355
+"Canoeing, rowing, vigorous","Referring to kayaking or canoeing at a high-intensity level. For example, the trips are done at a high speed and may involve strong and fast paddling. This activity may involve waters with strong currents, water sports like kayak racing, or paddling with intense effort.",60,2.471060896
+"Crew, sculling, rowing, competition",,60,2.471060896
+Kayaking,,60,1.02972154
+Paddle boat,,60,0.82323563
+"Windsurfing, sailing",,60,0.617426722
+"Sailing, competition",,60,1.02972154
+"Sailing, yachting, ocean sailing",,60,0.617426722
+"Skiing, water skiing",,60,1.234853445
+Ski mobiling,,60,1.441339355
+"Skin diving, fast","Referring to skin diving at high speed. The diver performs fast movements underwater, perhaps to reach a certain depth or explore a larger area at high speed.",60,3.294973528
+"Skin diving, moderate",Referring to skin diving at a moderate intensity. The diver performs more stable and controlled movements underwater.,60,2.574642352
+"Skin diving, scuba diving",,60,1.441339355
+Snorkeling,,60,1.02972154
+"Surfing, body surfing or board surfing",,60,0.617426722
+"Whitewater rafting, kayaking, canoeing",,60,1.02972154
+"Swimming laps, freestyle, fast","Referring to freestyle swimming at high speed. At this level, swimming is done at a higher speed and with intense physical effort.",60,2.059443081
+"Swimming laps, freestyle, slow","Referring to freestyle swimming at a low speed. At this level, swimming is done at a slower speed and with lighter physical effort.",60,1.441339355
+Swimming backstroke,,60,1.441339355
+Swimming breaststroke,,60,2.059443081
+Swimming butterfly,,60,2.265251988
+"Swimming leisurely, not laps",,60,1.234853445
+Swimming sidestroke,,60,1.647825266
+Swimming synchronized,,60,1.647825266
+"Swimming, treading water, fast, vigorous","Referring to floating in water at high speed and with intense physical effort. At this level, the swimmer actively and energetically moves to maintain a floating position in the water without moving in any specific direction. This may involve quick and powerful leg and arm movements to keep the body on the water's surface.",60,2.059443081
+"Swimming, treading water, moderate","Referring to floating in water at a moderate speed and with moderate physical effort. At this level, the swimmer performs slower and more controlled movements to maintain a floating position in the water. This activity involves calmer and unhurried leg and arm movements.",60,0.82323563
+"Water aerobics, water calisthenics",,60,0.82323563
+Water polo,,60,2.059443081
+Water volleyball,,60,0.617426722
+Water jogging,,60,1.647825266
+"Diving, springboard or platform",,60,0.617426722
+"Ice skating, < 9 mph",,60,1.132625994
+"Ice skating, average speed",,60,1.441339355
+"Ice skating, rapidly",,60,1.85295717
+"Speed skating, ice, competitive",,60,3.089164621
+"Cross country snow skiing, slow",Referring to cross-country skiing at a low speed.,60,1.441339355
+"Cross country skiing, moderate",Referring to cross-country skiing at a moderate speed and with moderate physical effort. This involves more controlled and stable movements with moderate physical effort.,60,1.647825266
+"Cross country skiing, vigorous","Referring to cross-country skiing at a high physical effort level. This involves higher speeds, energetic movements, and significant physical effort to maintain speed and endurance.",60,1.85295717
+"Cross country skiing, racing",,60,2.88267871
+"Cross country skiing, uphill",,60,3.397877982
+"Snow skiing, downhill skiing, light",Referring to downhill skiing at a low or relaxed intensity. This may include leisurely skiing on flatter tracks or on gentle slopes.,60,1.02972154
+"Downhill snow skiing, moderate",Referring to downhill skiing at a moderate intensity. This involves skiing on more challenging slopes with controlled speed and movements.,60,1.234853445
+"Downhill snow skiing, racing",Referring to downhill skiing at a high-intensity racing level. This involves skiing on specifically designed race courses with maximum speed and precise technique.,60,1.647825266
+"Sledding, tobagganing, luge",,60,1.441339355
+Snow shoeing,,60,1.647825266
+Snowmobiling,,60,0.721008179
+General housework,,60,0.721008179
+Cleaning gutters,,60,1.02972154
+Painting,,60,0.92749409
+"Sit, playing with animals",,60,0.515199272
+"Walk / run, playing with animals",,60,0.82323563
+Bathing dog,,60,0.721008179
+"Mowing lawn, walk, power mower",,60,1.132625994
+"Mowing lawn, riding mower",,60,0.515199272
+"Walking, snow blower",,60,0.721008179
+"Riding, snow blower",,60,0.617426722
+Shoveling snow by hand,,60,1.234853445
+Raking lawn,,60,0.885519904
+"Gardening, general",,60,0.82323563
+"Bagging grass, leaves",,60,0.82323563
+Watering lawn or garden,,60,0.310067367
+"Weeding, cultivating garden",,60,0.92749409
+"Carpentry, general",,60,0.721008179
+Carrying heavy loads,,60,1.647825266
+Carrying moderate loads upstairs,,60,1.647825266
+General cleaning,,60,0.721008179
+"Cleaning, dusting",,60,0.515199272
+Taking out trash,,60,0.617426722
+"Walking, pushing a wheelchair",,60,0.82323563
+"Teach physical education,exercise class",,60,0.82323563

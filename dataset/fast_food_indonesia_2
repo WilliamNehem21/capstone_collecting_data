@@ -1,0 +1,1433 @@
+,Unnamed: 0,Company,Menu
+0,0,McDonald's,
+1,1,McDonald's,Egg and Cheese Muffin
+2,2,McDonald's,Chicken Muffin
+3,3,McDonald's,Sausage McMuffin
+4,4,McDonald's,Egg McMuffin
+5,5,McDonald's,Chicken Muffin with Egg
+6,6,McDonald's,Sausage McMuffin with Egg
+7,7,McDonald's,Sausage Wrap
+8,8,McDonald's,Big Breakfast
+9,9,McDonald's,Breakfast Wrap
+10,10,McDonald's,Hotcakes 3 pcs
+11,11,McDonald's,Hotcakes 2 pcs
+12,12,McDonald's,Hashbrown
+13,13,McDonald's,Nasi Uduk McD
+14,14,McDonald's,Bubur Ayam McD
+15,15,McDonald's,Big Mac®
+16,16,McDonald's,Triple Cheeseburger
+17,17,McDonald's,Double Cheeseburger
+18,18,McDonald's,Cheeseburger Deluxe
+19,19,McDonald's,Cheeseburger with Egg
+20,20,McDonald's,Cheeseburger
+21,21,McDonald's,Beef Burger Deluxe
+22,22,McDonald's,Beef Burger
+23,23,McDonald's,PaNas Spesial Ayam McD Gulai
+24,24,McDonald's,PaNas 1 Ayam McD Gulai
+25,25,McDonald's,PaNas 2 Ayam McD Gulai
+26,26,McDonald's,PaNas 2 with French Fries Ayam McD Gulai
+27,27,McDonald's,PaMer 5 Ayam McD Gulai
+28,28,McDonald's,PaMer 7 Ayam McD Gulai
+29,29,McDonald's,Korean Soy Garlic Wings - A la Carte 6pcs
+30,30,McDonald's,Korean Soy Garlic Wings - A la Carte 4pcs
+31,31,McDonald's,PaNas Wings Korean Soy Garlic
+32,32,McDonald's,PaNas HeBat Korean Soy Garlic Wings
+33,33,McDonald's,Ayam Krispy McDonald's
+34,34,McDonald's,Ayam Spicy McDonald's
+35,35,McDonald's,PaNas 1
+36,36,McDonald's,PaNas 2 with Fries
+37,37,McDonald's,PaNas 2 with Rice
+38,38,McDonald's,PaNas Spesial
+39,39,McDonald's,PaMer 5
+40,40,McDonald's,PaMer 7
+41,41,McDonald's,Honey Garlic Chicken Rice McD
+42,42,McDonald's,Rica-rica Chicken Rice McD
+43,43,McDonald's,Chicken Burger Deluxe
+44,44,McDonald's,Chicken Burger
+45,45,McDonald's,McSpicy™
+46,46,McDonald's,McChicken
+47,47,McDonald's,McNuggets
+48,48,McDonald's,Chicken Snack Wrap
+49,49,McDonald's,Spicy Chicken Bites
+50,50,McDonald's,Chicken Fingers
+51,51,McDonald's,Fish Snack Wrap
+52,52,McDonald's,Fish Fillet Burger
+53,53,McDonald's,Honey Garlic Fish Rice McD
+54,54,McDonald's,Rica-rica Fish Rice McD
+55,55,McDonald's,Iced Coffee Caramel Macchiato Jelly Float
+56,56,McDonald's,Iced Coffee Caramel Macchiato Float
+57,57,McDonald's,Iced Coffee Caramel Macchiato Jelly
+58,58,McDonald's,Iced Coffee Caramel Macchiato
+59,59,McDonald's,Fruit Tea Lemon
+60,60,McDonald's,Coca Cola
+61,61,McDonald's,Sprite
+62,62,McDonald's,Fanta
+63,63,McDonald's,Coca-Cola McFloat
+64,64,McDonald's,Fanta McFloat
+65,65,McDonald's,Hot Coffee
+66,66,McDonald's,Hot Tea
+67,67,McDonald's,Iced Coffee
+68,68,McDonald's,Iced Coffee Float
+69,69,McDonald's,Iced Coffee Jelly
+70,70,McDonald's,Iced Coffee Jelly Float
+71,71,McDonald's,Iced Milo
+72,72,McDonald's,Tehbotol Sosro Tawar
+73,73,McDonald's,Mineral Water Prim-a
+74,74,McDonald's,Tehbotol Sosro
+75,75,McDonald's,Tehbotol Sosro Kotak
+76,76,McDonald's,Fruit Tea Blackcurrant
+77,77,McDonald's,Iced Lychee Tea
+78,78,McDonald's,Double Choco Pie
+79,79,McDonald's,Double Choco Pie A la Mode Chocolate
+80,80,McDonald's,Double Choco Pie A la Mode Strawberry
+81,81,McDonald's,Hershey's McFlurry with Choco Balls
+82,82,McDonald's,Hershey's McFlurry with Choco Crumbs
+83,83,McDonald's,Apple Pie
+84,84,McDonald's,McFlurry feat. Oreo
+85,85,McDonald's,McFlurry Choco
+86,86,McDonald's,Strawberry Sundae
+87,87,McDonald's,Chocolate Sundae
+88,88,McDonald's,Ice Cream Cone
+89,89,McDonald's,Choco Top
+90,90,McDonald's,Happy Meal Egg & Cheese Muffin
+91,91,McDonald's,Happy Meal 4 pcs McNuggets
+92,92,McDonald's,Happy Meal Chicken Burger
+93,93,McDonald's,Happy Meal Ayam McD
+94,94,McDonald's,Happy Meal Beef Burger
+95,95,McDonald's,Family Weekend Breakfast Happy Meal Ayam McD dan Mainan
+96,96,McDonald's,Family Weekend Breakfast Happy Meal Egg & Cheese Muffin dan Mainan
+97,97,McDonald's,Family Weekend Happy Meal Beef Burger dan Mainan
+98,98,McDonald's,Family Weekend Happy Meal Ayam McD dan Mainan
+99,99,McDonald's,Family Time Breakfast Happy Meal Ayam McD
+100,100,McDonald's,Family Time Breakfast Happy Meal Egg & Cheese Muffin
+101,101,McDonald's,Family Time Happy Meal Beef Burger
+102,102,McDonald's,Family Time Happy Meal Ayam McD
+103,103,McDonald's,Iced Strawberry Latte Frappe
+104,104,McDonald's,Hot Strawberry Latte
+105,105,McDonald's,Iced Pink Berry Latte
+106,106,McDonald's,Iced Strawberry Tea
+107,107,McDonald's,Iced Himalayan Tea
+108,108,McDonald's,Himalayan Tea Frappe
+109,109,McDonald's,Iced Himalayan Latte
+110,110,McDonald's,Himalayan Latte Frappe
+111,111,McDonald's,Affogato
+112,112,McDonald's,Hot Matcha Latte
+113,113,McDonald's,Iced Matcha Latte
+114,114,McDonald's,Iced Café Matcha Fushion
+115,115,McDonald's,Matcha Frappe
+116,116,McDonald's,Tasseo Lemon Grass
+117,117,McDonald's,Tasseo Java Jasmine
+118,118,McDonald's,Tasseo Pure Green
+119,119,McDonald's,Espresso
+120,120,McDonald's,Macchiato
+121,121,McDonald's,Long Black Coffee
+122,122,McDonald's,Flat White
+123,123,McDonald's,Caffe Latte
+124,124,McDonald's,Cappuccino
+125,125,McDonald's,Hot Chocolate
+126,126,McDonald's,Hazelnut Latte
+127,127,McDonald's,Mocha Latte
+128,128,McDonald's,Vienna
+129,129,McDonald's,Caramel Latte
+130,130,McDonald's,Vanilla Latte
+131,131,McDonald's,Iced Cafe Latte
+132,132,McDonald's,Iced Cappuccino
+133,133,McDonald's,Iced Chocolate
+134,134,McDonald's,Iced Caramel Latte
+135,135,McDonald's,Iced Vanilla Latte
+136,136,McDonald's,Iced Hazelnut Latte
+137,137,McDonald's,Iced Latte Frappe
+138,138,McDonald's,Mocha Frappe
+139,139,McDonald's,Choco Frappe
+140,140,McDonald's,Hazelnut Frappe
+141,141,McDonald's,Mango Frappe
+142,142,McDonald's,Cheese Stick
+143,143,McDonald's,Butter Croissant
+144,144,McDonald's,Banana Muffin
+145,145,McDonald's,Choco Chip Muffin
+146,146,McDonald's,Cheese Croissant
+147,147,McDonald's,Tuna Puff Pastry
+148,148,McDonald's,Chicken Curry Puff
+149,149,McDonald's,Choco Lover
+150,150,McDonald's,Smoked Beef and Cheese Panini
+151,151,McDonald's,Chicken Blackpepper Focaccia
+152,152,McDonald's,Klepon Cake
+153,153,McDonald's,Lemon Cake
+154,154,McDonald's,McD Share Box with Mentai Sauce & Spicy BBQ Crunchy Star
+155,155,McDonald's,Menu Receh 1+1
+156,156,McDonald's,French Fries
+157,157,McDonald's,Sweet Corn
+158,158,McDonald's,
+159,159,KFC,
+160,160,KFC,
+161,161,KFC,
+162,162,KFC,9 PCS BUCKET
+163,163,KFC,WINGS BUCKET
+164,164,KFC,WINGER COMBO BBQ
+165,165,KFC,
+166,166,KFC,
+167,167,KFC,
+168,168,KFC,
+169,169,KFC,
+170,170,KFC,
+171,171,KFC,
+172,172,KFC,
+173,173,KFC,
+174,174,KFC,
+175,175,KFC,
+176,176,KFC,
+177,177,KFC,
+178,178,KFC,
+179,179,KFC,FISH FILLET COMBO
+180,180,KFC,COLONEL YAKINIKU COMBO
+181,181,KFC,KOMBO KRISPY
+182,182,KFC,
+183,183,KFC,
+184,184,KFC,
+185,185,KFC,
+186,186,KFC,
+187,187,KFC,
+188,188,KFC,
+189,189,KFC,
+190,190,KFC,
+191,191,KFC,
+192,192,KFC,
+193,193,KFC,
+194,194,KFC,
+195,195,KFC,
+196,196,KFC,
+197,197,KFC,
+198,198,KFC,
+199,199,KFC,
+200,200,KFC,
+201,201,KFC,
+202,202,KFC,ORIENTAL DON
+203,203,KFC,COLONEL BURGER
+204,204,KFC,TWISTY
+205,205,KFC,
+206,206,KFC,
+207,207,KFC,
+208,208,KFC,
+209,209,KFC,
+210,210,KFC,
+211,211,KFC,
+212,212,KFC,
+213,213,KFC,
+214,214,KFC,
+215,215,KFC,
+216,216,KFC,
+217,217,KFC,
+218,218,KFC,
+219,219,KFC,YAKINIKU DON
+220,220,KFC,WINGERS
+221,221,KFC,SPAGHETTI SUPREME
+222,222,KFC,
+223,223,KFC,
+224,224,KFC,
+225,225,KFC,
+226,226,KFC,
+227,227,KFC,
+228,228,KFC,
+229,229,KFC,
+230,230,KFC,
+231,231,KFC,
+232,232,KFC,
+233,233,KFC,
+234,234,KFC,
+235,235,KFC,
+236,236,KFC,
+237,237,KFC,
+238,238,KFC,
+239,239,KFC,
+240,240,KFC,
+241,241,KFC,
+242,242,KFC,
+243,243,KFC,
+244,244,KFC,
+245,245,KFC,
+246,246,KFC,
+247,247,KFC,
+248,248,KFC,
+249,249,KFC,
+250,250,KFC,
+251,251,KFC,
+252,252,KFC,
+253,253,KFC,
+254,254,KFC,
+255,255,KFC,
+256,256,KFC,
+257,257,KFC,
+258,258,KFC,
+259,259,KFC,
+260,260,KFC,OVALTINE
+261,261,KFC,MOCHA FLOAT
+262,262,KFC,MANGO FLOAT
+263,263,KFC,
+264,264,KFC,
+265,265,KFC,
+266,266,KFC,
+267,267,KFC,
+268,268,KFC,
+269,269,KFC,
+270,270,KFC,
+271,271,KFC,
+272,272,KFC,
+273,273,KFC,
+274,274,KFC,
+275,275,KFC,
+276,276,KFC,
+277,277,KFC,
+278,278,KFC,
+279,279,KFC,
+280,280,KFC,
+281,281,KFC,
+282,282,KFC,
+283,283,KFC,
+284,284,KFC,CHAKI KIDS MEAL A
+285,285,KFC,CHAKI KIDS MEAL B
+286,286,KFC,
+287,287,KFC,
+288,288,KFC,
+289,289,KFC,SCRAMBLE EGG
+290,290,KFC,SUPER BREAKFAST COMBO
+291,291,KFC,SUPER BREAKFAST
+292,292,KFC,
+293,293,KFC,
+294,294,KFC,
+295,295,KFC,
+296,296,KFC,
+297,297,KFC,
+298,298,KFC,
+299,299,KFC,
+300,300,KFC,
+301,301,KFC,
+302,302,KFC,
+303,303,KFC,
+304,304,KFC,
+305,305,KFC,
+306,306,KFC,
+307,307,KFC,
+308,308,KFC,
+309,309,KFC,
+310,310,KFC,
+311,311,KFC,
+312,312,KFC,DOUBLE CHOCOLATE KRUSHERS
+313,313,KFC,ICED LEMON TEA
+314,314,KFC,ICE BLENDED CAPPUCINO
+315,315,KFC,
+316,316,KFC,
+317,317,KFC,
+318,318,KFC,
+319,319,KFC,
+320,320,KFC,
+321,321,KFC,
+322,322,KFC,
+323,323,KFC,
+324,324,KFC,
+325,325,KFC,
+326,326,KFC,
+327,327,KFC,
+328,328,KFC,
+329,329,KFC,
+330,330,KFC,
+331,331,KFC,
+332,332,KFC,
+333,333,KFC,
+334,334,KFC,
+335,335,KFC,
+336,336,KFC,
+337,337,KFC,
+338,338,KFC,
+339,339,KFC,
+340,340,KFC,
+341,341,KFC,
+342,342,KFC,
+343,343,KFC,
+344,344,KFC,
+345,345,KFC,
+346,346,Pizza Hut,BEEF BBQ
+347,347,Pizza Hut,CHEESY FRANK
+348,348,Pizza Hut,MEATY
+349,349,Pizza Hut,CREAMY CHICKEN
+350,350,Pizza Hut,TASTY TUNA
+351,351,Pizza Hut,CHEESY BEEF SPAGHETTI
+352,352,Pizza Hut,MAC 'N CHEESE
+353,353,Pizza Hut,CHICKEN FETTUCCINE ALLA ITALIA
+354,354,Pizza Hut,RICE OMELETTE
+355,355,Pizza Hut,CHICKEN DELIGHT
+356,356,Pizza Hut,CHEESY DOUGH BALL
+357,357,Pizza Hut,BEEF SAUSAGE BITES
+358,358,Pizza Hut,CHICKEN STICKS
+359,359,Pizza Hut,CHOCOCHIZ TOAST
+360,360,Pizza Hut,POTATO WEDGES
+361,361,Pizza Hut,SPLITZA
+362,362,Pizza Hut,FRANKFURTER BBQ
+363,363,Pizza Hut,CHEESEBURGER
+364,364,Pizza Hut,MEAT MONSTA
+365,365,Pizza Hut,SUPER SUPREME
+366,366,Pizza Hut,MEAT LOVERS
+367,367,Pizza Hut,PEPPERONI
+368,368,Pizza Hut,AMERICAN FAVOURITE
+369,369,Pizza Hut,TUNA MELT
+370,370,Pizza Hut,CHEESE LOVERS
+371,371,Pizza Hut,CHEESE OVERLOAD
+372,372,Pizza Hut,VEGGIE GARDEN
+373,373,Pizza Hut,CHOOSE YOUR CRUST!
+374,374,Pizza Hut,BEEF ARABIATA
+375,375,Pizza Hut,CLASSIC SALMON MENTAIKO
+376,376,Pizza Hut,CREAMY TRUFFLE
+377,377,Pizza Hut,CUMI CABE IJO
+378,378,Pizza Hut,ORIENTAL CHICKEN SPAGHETTI
+379,379,Pizza Hut,TUNA AGLIO OLIO
+380,380,Pizza Hut,BLACK PEPPER CHICKEN FETTUCCINE
+381,381,Pizza Hut,FLAMING HOT CHICKEN / PRAWN
+382,382,Pizza Hut,CREAMY BEEF / CHICKEN CLASSIC FETTUCCINE
+383,383,Pizza Hut,BEEF SPAGHETTI
+384,384,Pizza Hut,BEEF LASAGNA
+385,385,Pizza Hut,CHEESE-BEEF FUSILLI
+386,386,Pizza Hut,ORIENTAL CHICKEN
+387,387,Pizza Hut,MEATBALL BEEF MUSHROOM SAUCE
+388,388,Pizza Hut,BLACK PEPPER CHICKEN
+389,389,Pizza Hut,CHICKEN BITES
+390,390,Pizza Hut,WINGSTREET
+391,391,Pizza Hut,NEW ORLEANS CHICKEN WINGS
+392,392,Pizza Hut,BAKED CHICKEN CHUNKS
+393,393,Pizza Hut,SAUSAGE PASTRY ROLL
+394,394,Pizza Hut,NACHO CHEESE
+395,395,Pizza Hut,PUUF PASTRY MUSHROOM CREAM SOUP
+396,396,Pizza Hut,GARLIC BREAD
+397,397,Pizza Hut,CHICKEN ROYALE
+398,398,Pizza Hut,DELUXE BEEF BRUSCHETTA
+399,399,Pizza Hut,DELUXE CHICKEN BRUSCHETTA
+400,400,Pizza Hut,GARLICHEESE BREAD
+401,401,Pizza Hut,CHEESE ROLLS
+402,402,Pizza Hut,CHOCO PUFF
+403,403,Pizza Hut,POTATO WEDGES
+404,404,Pizza Hut,CHEESE MARTABAK PIZZA
+405,405,Pizza Hut,FRESH SALAD
+406,406,Pizza Hut,TROPICAL PUNCH
+407,407,Pizza Hut,LYCHEE BREEZE
+408,408,Pizza Hut,ORANGE LYCHEE SPARKLE
+409,409,Pizza Hut,BLUE OCEAN
+410,410,Pizza Hut,MIXBERRY
+411,411,Pizza Hut,WINTER PUNCH
+412,412,Pizza Hut,GREEN TEA YAKULT
+413,413,Pizza Hut,HONEY LIME TEA
+414,414,Pizza Hut,LYCHEE SPRING
+415,415,Pizza Hut,WATERMELON
+416,416,Pizza Hut,MELON
+417,417,Pizza Hut,AVOCADO
+418,418,Pizza Hut,ORANGE JUICE
+419,419,Pizza Hut,STRAWBERRY WATERMELON
+420,420,Pizza Hut,STRAWBERRY ORANGE
+421,421,Pizza Hut,MELON PEACH
+422,422,Pizza Hut,ITALIAN SUNRISE SODA
+423,423,Pizza Hut,ITALIAN RED SODA
+424,424,Pizza Hut,ITALIAN GREEN SODA
+425,425,Pizza Hut,LIME SQUASH
+426,426,Pizza Hut,GREEN TEA SHAKE
+427,427,Pizza Hut,TOFFEE COFFEE
+428,428,Pizza Hut,FAVOURITE FLOAT
+429,429,Pizza Hut,CHOCOLATE BLAST
+430,430,Pizza Hut,MOCHA FLOAT
+431,431,Pizza Hut,PINK FLOAT
+432,432,Pizza Hut,STRAWBERRY MILKSHAKE
+433,433,Pizza Hut,CHOCOLATE MILKSHAKE
+434,434,PHD,BEEF BBQ
+435,435,PHD,CHEESY FRANK
+436,436,PHD,MEATY
+437,437,PHD,CREAMY CHICKEN
+438,438,PHD,TASTY TUNA
+439,439,PHD,CHEESY BEEF SPAGHETTI
+440,440,PHD,MAC 'N CHEESE
+441,441,PHD,CHICKEN FETTUCCINE ALLA ITALIA
+442,442,PHD,RICE OMELETTE
+443,443,PHD,CHICKEN DELIGHT
+444,444,PHD,CHEESY DOUGH BALL
+445,445,PHD,BEEF SAUSAGE BITES
+446,446,PHD,CHICKEN STICKS
+447,447,PHD,CHOCOCHIZ TOAST
+448,448,PHD,POTATO WEDGES
+449,449,PHD,SPLITZA
+450,450,PHD,FRANKFURTER BBQ
+451,451,PHD,CHEESEBURGER
+452,452,PHD,MEAT MONSTA
+453,453,PHD,SUPER SUPREME
+454,454,PHD,MEAT LOVERS
+455,455,PHD,PEPPERONI
+456,456,PHD,AMERICAN FAVOURITE
+457,457,PHD,TUNA MELT
+458,458,PHD,CHEESE LOVERS
+459,459,PHD,CHEESE OVERLOAD
+460,460,PHD,VEGGIE GARDEN
+461,461,PHD,CHOOSE YOUR CRUST!
+462,462,PHD,BEEF ARABIATA
+463,463,PHD,CLASSIC SALMON MENTAIKO
+464,464,PHD,CREAMY TRUFFLE
+465,465,PHD,CUMI CABE IJO
+466,466,PHD,ORIENTAL CHICKEN SPAGHETTI
+467,467,PHD,TUNA AGLIO OLIO
+468,468,PHD,BLACK PEPPER CHICKEN FETTUCCINE
+469,469,PHD,FLAMING HOT CHICKEN / PRAWN
+470,470,PHD,CREAMY BEEF / CHICKEN CLASSIC FETTUCCINE
+471,471,PHD,BEEF SPAGHETTI
+472,472,PHD,BEEF LASAGNA
+473,473,PHD,CHEESE-BEEF FUSILLI
+474,474,PHD,ORIENTAL CHICKEN
+475,475,PHD,MEATBALL BEEF MUSHROOM SAUCE
+476,476,PHD,BLACK PEPPER CHICKEN
+477,477,PHD,CHICKEN BITES
+478,478,PHD,WINGSTREET
+479,479,PHD,NEW ORLEANS CHICKEN WINGS
+480,480,PHD,BAKED CHICKEN CHUNKS
+481,481,PHD,SAUSAGE PASTRY ROLL
+482,482,PHD,NACHO CHEESE
+483,483,PHD,PUUF PASTRY MUSHROOM CREAM SOUP
+484,484,PHD,GARLIC BREAD
+485,485,PHD,CHICKEN ROYALE
+486,486,PHD,DELUXE BEEF BRUSCHETTA
+487,487,PHD,DELUXE CHICKEN BRUSCHETTA
+488,488,PHD,GARLICHEESE BREAD
+489,489,PHD,CHEESE ROLLS
+490,490,PHD,CHOCO PUFF
+491,491,PHD,POTATO WEDGES
+492,492,PHD,CHEESE MARTABAK PIZZA
+493,493,PHD,FRESH SALAD
+494,494,PHD,TROPICAL PUNCH
+495,495,PHD,LYCHEE BREEZE
+496,496,PHD,ORANGE LYCHEE SPARKLE
+497,497,PHD,BLUE OCEAN
+498,498,PHD,MIXBERRY
+499,499,PHD,WINTER PUNCH
+500,500,PHD,GREEN TEA YAKULT
+501,501,PHD,HONEY LIME TEA
+502,502,PHD,LYCHEE SPRING
+503,503,PHD,WATERMELON
+504,504,PHD,MELON
+505,505,PHD,AVOCADO
+506,506,PHD,ORANGE JUICE
+507,507,PHD,STRAWBERRY WATERMELON
+508,508,PHD,STRAWBERRY ORANGE
+509,509,PHD,MELON PEACH
+510,510,PHD,ITALIAN SUNRISE SODA
+511,511,PHD,ITALIAN RED SODA
+512,512,PHD,ITALIAN GREEN SODA
+513,513,PHD,LIME SQUASH
+514,514,PHD,GREEN TEA SHAKE
+515,515,PHD,TOFFEE COFFEE
+516,516,PHD,FAVOURITE FLOAT
+517,517,PHD,CHOCOLATE BLAST
+518,518,PHD,MOCHA FLOAT
+519,519,PHD,PINK FLOAT
+520,520,PHD,STRAWBERRY MILKSHAKE
+521,521,PHD,CHOCOLATE MILKSHAKE
+522,522,Domino's Pizza,CRISPY TORTILLA CHIPS
+523,523,Domino's Pizza,TASTY STUFFED POCKET SPICY CHICKEN SAUSAGE WITH CHEESE
+524,524,Domino's Pizza,TASTY STUFFED POCKET SPICY CHICKEN SAUSAGE
+525,525,Domino's Pizza,TASTY STUFFED POCKET PEPPERY BEEF SAUSAGE WITH CHEESE
+526,526,Domino's Pizza,TASTY STUFFED POCKET PEPPERY BEEF SAUSAGE
+527,527,Domino's Pizza,CHOCOLATE LAVA
+528,528,Domino's Pizza,CHOCO BREAD STICKS
+529,529,Domino's Pizza,BEEF & RICE
+530,530,Domino's Pizza,CHICKEN & RICE
+531,531,Domino's Pizza,SPICY TUNA MAC'N CHEESE EXTRA CHEESE
+532,532,Domino's Pizza,SPICY TUNA MAC'N CHEESE
+533,533,Domino's Pizza,CHICKEN CREAMY SPAGHETTI
+534,534,Domino's Pizza,CHICKEN CREAMY SPAGHETTI WITH CHEESE
+535,535,Domino's Pizza,BEEF PEPPER SPAGHETTI
+536,536,Domino's Pizza,MEATBALL MARINARA SPAGHETTI
+537,537,Domino's Pizza,1 PIECE KOREAN SWEET HEAT K-PASTA
+538,538,Domino's Pizza,MAC'N TRUFLLE ALFREDO BEEF
+539,539,Domino's Pizza,MAC'N TRUFLLE ALFREDO BEEF EXTRA CHEESE
+540,540,Domino's Pizza,BEEF PEPPER SPAGHETTI WITH CHEESE
+541,541,Domino's Pizza,AMERICAN MAC'N CHEESE
+542,542,Domino's Pizza,AMERICAN MAC'N CHEESE EXTRA CHEESE
+543,543,Domino's Pizza,10 PIECES WINGCHUJANG CHIKIN
+544,544,Domino's Pizza,5 PIECES WINGCHUJANG CHIKIN
+545,545,Domino's Pizza,HABANERO BONELESS WINGS (6 PCS)
+546,546,Domino's Pizza,HABANERO BONELESS WINGS (3 PCS)
+547,547,Domino's Pizza,CHICK AND CHEESE RING (10 PCS)
+548,548,Domino's Pizza,CHICK AND CHEESE RING (6 PCS)
+549,549,Domino's Pizza,CRISPY CHICKEN STRIPS (4 PCS)
+550,550,Domino's Pizza,CHICKEN WINGS (10 PCS)
+551,551,Domino's Pizza,CHICKEN WINGS (5 PCS)
+552,552,Domino's Pizza,CRISPY CHICKEN STRIPS (10 PCS)
+553,553,Domino's Pizza,CHEESE CALZONE STICKS EXTRA CHEESE
+554,554,Domino's Pizza,CHEESY CALZONE STICKS
+555,555,Domino's Pizza,2 PIECES SEOUL CHEESE SAUSAGE ROLL
+556,556,Domino's Pizza,CHEESY BREAD (8 PCS)
+557,557,Domino's Pizza,GARLIC CHEESY ROLLS (2 PCS)
+558,558,Domino's Pizza,BREAD STICKS (8 PCS)
+559,559,Domino's Pizza,BLACK PEPPER DIPPING SAUCE
+560,560,Domino's Pizza,SAMBAL DIPPING SAUCE
+561,561,Domino's Pizza,RUSTIC DIPPING SAUCE
+562,562,Domino's Pizza,BBQ DIPPING SAUCE
+563,563,Domino's Pizza,CHEESY DIPPING SAUCE
+564,564,Domino's Pizza,AMERICAN PIE SUPER MEATY BOLOGNESE
+565,565,Domino's Pizza,AMERICAN PIE SUPREME CHEESY
+566,566,Domino's Pizza,GRILLED BEEF SUPREME
+567,567,Domino's Pizza,CHEESY MEATBALL BLAST
+568,568,Domino's Pizza,ULTIMATE CHEESE MELT
+569,569,Domino's Pizza,NEWYORKER ALFREDO BEEF MUSHROOM TRUFFLE
+570,570,Domino's Pizza,NEWYORKER ALFREDO CHICKEN MUSHROOM TRUFFLE
+571,571,Domino's Pizza,AMERICAN FRANKIE SAUSAGE
+572,572,Domino's Pizza,ULTIMATE MEAT OVERLOAD
+573,573,Domino's Pizza,GOCHUJANG BEEF BLAST
+574,574,Domino's Pizza,AMERICAN CLASSIC CHEESEBURGER
+575,575,Domino's Pizza,AMERICAN ALL STAR
+576,576,Domino's Pizza,CHICKEN LOVERS
+577,577,Domino's Pizza,CHEESE MANIA
+578,578,Domino's Pizza,EXTRAVAGANZZA
+579,579,Domino's Pizza,MEATZZA
+580,580,Domino's Pizza,VEGGIE MANIA
+581,581,Domino's Pizza,CHICKEN DELIGHT
+582,582,Domino's Pizza,DOUBLE BEEF BURGER
+583,583,Domino's Pizza,BEEF PEPPERONI FEAST
+584,584,Domino's Pizza,TUNA DELIGHT
+585,585,Domino's Pizza,MEAT & MEAT
+586,586,Domino's Pizza,MARGHERITA
+587,587,Domino's Pizza,BEEF DELIGHT
+588,588,Domino's Pizza,CHEESY SAUSAGE
+589,589,Domino's Pizza,CHICKEN PEPPERONI FEAST
+590,590,Domino's Pizza,BEEF RASHER
+591,591,Domino's Pizza,K-LOVERS PIZZA
+592,592,Domino's Pizza,CHEESY BEEF
+593,593,Domino's Pizza,CREAMY CHICKEN
+594,594,Domino's Pizza,CHICKEN BBQ
+595,595,Wendy's,Festive Bun
+596,596,Wendy's,Big Deal
+597,597,Wendy's,Superdeal
+598,598,Wendy's,Chicken BOX
+599,599,Wendy's,PROMO PUAS
+600,600,Wendy's,#Cokecombodeals 4
+601,601,Wendy's,Festive Bun
+602,602,Wendy's,Big Deal
+603,603,Wendy's,Superdeal
+604,604,Wendy's,Chicken BOX
+605,605,Wendy's,PROMO PUAS
+606,606,Wendy's,Steakhouse Cheeseburger - ala carte
+607,607,Wendy's,Combo Med Steakhouse Cheeseburger
+608,608,Wendy's,#Cokecombodeals 4
+609,609,Wendy's,#Cokecombodeals 1
+610,610,Wendy's,#Cokecombodeals 2
+611,611,Wendy's,#Cokecombodeals 3
+612,612,Wendy's,Feast 1
+613,613,Wendy's,Feast 2
+614,614,Wendy's,Single Stacker
+615,615,Wendy's,Combo Medium Single Stacker
+616,616,Wendy's,Double Stacker A
+617,617,Wendy's,Combo Medium Double Stacker
+618,618,Wendy's,Single Dave's
+619,619,Wendy's,Combo Medium Single Dave's
+620,620,Wendy's,Double Dave's
+621,621,Wendy's,Combo Medium Double Dave's
+622,622,Wendy's,Cheese Beefanator
+623,623,Wendy's,Combo Medium Cheese Beefenator
+624,624,Wendy's,Homestyle Chicken
+625,625,Wendy's,Combo Medium Homestyle Chicken
+626,626,Wendy's,Spicy Nanban Chicken Burger
+627,627,Wendy's,Combo Small Spicy Nanban Chicken Burger
+628,628,Wendy's,1 Pc Fried Chicken Ala Carte
+629,629,Wendy's,Combo 1 Pc Fried Chicken
+630,630,Wendy's,Combo 2 Pcs Fried Chicken
+631,631,Wendy's,Party Pack 9 Pcs Fried Chicken
+632,632,Wendy's,Party Pack 5 Pcs Fried Chicken
+633,633,Wendy's,1 pc Spicy Chicken Nanban
+634,634,Wendy's,Combo 1 pc Spicy Chicken Nanban
+635,635,Wendy's,Combo 2 pcs Spicy Chicken Nanban
+636,636,Wendy's,French Fries Medium
+637,637,Wendy's,French Fries Large
+638,638,Wendy's,Waffle Fries Medium
+639,639,Wendy's,Waffle Fries Large
+640,640,Wendy's,Kids meals 1
+641,641,Wendy's,Kids meals 2
+642,642,Wendy's,Kids meals 3
+643,643,Wendy's,Minute Maid Pulpy Orange
+644,644,Wendy's,Ades Mineral Water350 ml
+645,645,Wendy's,Thai Tea Jelly
+646,646,Wendy's,Ice Butterscoth Macchiato
+647,647,Wendy's,Hot Butterscoth Macchiato
+648,648,Wendy's,Milo RTD
+649,649,Wendy's,Coca-Cola Can Small
+650,650,Wendy's,Coca-Cola 12 oz Small
+651,651,Wendy's,Coca-Cola 16 oz Med
+652,652,Wendy's,Coca-Cola 22 oz Large
+653,653,Wendy's,Fanta 12 oz Small
+654,654,Wendy's,Fanta 16 oz Med
+655,655,Wendy's,Fanta 22 oz Large
+656,656,Wendy's,Jasmin Tea 12 oz Small
+657,657,Wendy's,Jasmin Tea 16 oz Med
+658,658,Wendy's,Jasmin Tea 22 oz Large
+659,659,Wendy's,Sprite 12 oz Small
+660,660,Wendy's,Sprite 16 oz Med
+661,661,Wendy's,Sprite 22 oz Large
+662,662,Wendy's,Extra Cheese Sliced
+663,663,Wendy's,Extra Cheese Sauce
+664,664,Wendy's,Extra Beef Patty Large
+665,665,Wendy's,Extra Beef Patty Small
+666,666,Wendy's,Extra Smoked Beef 3 Sliced
+667,667,Wendy's,Extra Thousand Island
+668,668,Wendy's,Extra Mayonnaise
+669,669,Wendy's,Wrapped Rice
+670,670,Wendy's,Beef Burger
+671,671,Wendy's,Cheeseburger
+672,672,Wendy's,Combo Medium Cheeseburger
+673,673,Wendy's,Beef Burger Deluxe
+674,674,Wendy's,Combo Medium Beef Burger Deluxe
+675,675,Wendy's,Crispy Chicken Burger
+676,676,Wendy's,Combo Medium Crispy Chicken Burger
+677,677,Wendy's,Cheese Crispy Chicken
+678,678,Wendy's,Combo Medium Cheese Crispy Chicken
+679,679,Wendy's,Cheese Fries Bolognese
+680,680,Wendy's,Beef Spaghetti Bolognese
+681,681,Wendy's,Beef Chili
+682,682,Wendy's,Chili with Rice
+683,683,Wendy's,Chili Cheese Fries
+684,684,Wendy's,Macaroni Melt 'N Cheese
+685,685,Wendy's,Premium Garden Salad
+686,686,Wendy's,Chicken Soup
+687,687,Wendy's,Chicken Strip
+688,688,Wendy's,Sambal Matah Chicken Rice
+689,689,Wendy's,Combo Sambal Matah Chicken Rice
+690,690,Wendy's,Spicy Chicken Nanban Rice Bowl Ala Carte
+691,691,Wendy's,Combo Small Spicy Chicken Nanban Rice Bowl
+692,692,Wendy's,Baked Potato Cheese n' Cheese
+693,693,Wendy's,Baked Potato Broccoli n' Cheese
+694,694,Wendy's,Baked Potato Bolognese
+695,695,Wendy's,Baked Potato Carbonara
+696,696,Wendy's,Potato Pie Cheese
+697,697,Wendy's,Potato Pie Carbonara
+698,698,Wendy's,Combo Medium Chicken Sambal Matah
+699,699,Carl's Jr.,Star 1
+700,700,Carl's Jr.,Star 2
+701,701,Carl's Jr.,Star 3
+702,702,Carl's Jr.,Star 4
+703,703,Carl's Jr.,Chicken Box 5pcs
+704,704,Carl's Jr.,Chicken Box 9pcs
+705,705,Carl's Jr.,Star 1
+706,706,Carl's Jr.,Star 2
+707,707,Carl's Jr.,Star 3
+708,708,Carl's Jr.,Star 4
+709,709,Carl's Jr.,Combo Rice CJ Chicken Sambal Bawang 1pc
+710,710,Carl's Jr.,Combo Cheeseburger
+711,711,Carl's Jr.,Double Star Chicken
+712,712,Carl's Jr.,Double Star Burger
+713,713,Carl's Jr.,Combo Rice CJ Chicken Sambal Bawang 1pc
+714,714,Carl's Jr.,Combo Cheeseburger
+715,715,Carl's Jr.,Double Star Chicken
+716,716,Carl's Jr.,Double Star Burger
+717,717,Carl's Jr.,Family Box Chicken
+718,718,Carl's Jr.,Family Box Burger
+719,719,Carl's Jr.,Family Box Burger
+720,720,Carl's Jr.,Family Box Mix
+721,721,Carl's Jr.,Double Star Chicken
+722,722,Carl's Jr.,Double Star Burger
+723,723,Carl's Jr.,Combo Rice CJ Chicken Sambal bawang 1pc
+724,724,Carl's Jr.,Combo Rice CJ Chicken 1pc
+725,725,Carl's Jr.,Combo Rice CJ Chicken 2pcs
+726,726,Carl's Jr.,Combo Rice CJ Chicken Sambal bawang 2pcs
+727,727,Carl's Jr.,Combo Rice CJ Chicken Spicy delight 1 pc
+728,728,Carl's Jr.,Combo Rice CJ Chicken Spicy delight 2 pcs
+729,729,Carl's Jr.,Combo Fries CJ Chicken 1pc
+730,730,Carl's Jr.,Combo Fries CJ Chicken 2pcs
+731,731,Carl's Jr.,Combo Fries CJ Chicken Sambal bawang 1pc
+732,732,Carl's Jr.,Combo Fries CJ Chicken Sambal bawang 2pcs
+733,733,Carl's Jr.,CJ Chicken 1 Pc
+734,734,Carl's Jr.,CJ Chicken 2 Pcs
+735,735,Carl's Jr.,CJ Chicken Sambal Bawang 1pc
+736,736,Carl's Jr.,CJ Chicken Sambal Bawang 2pcs
+737,737,Carl's Jr.,CJ Chicken Spicy Delight 1pc
+738,738,Carl's Jr.,CJ Chicken Spicy Delight 2pcs
+739,739,Carl's Jr.,Chicken Box 5pcs
+740,740,Carl's Jr.,Chicken Box 9pcs
+741,741,Carl's Jr.,Combo Medium Western Beefbac Cheeseburger
+742,742,Carl's Jr.,Combo Medium Portobello Mushroom Burger
+743,743,Carl's Jr.,Combo Medium Hawaiian Beef Burger
+744,744,Carl's Jr.,Combo Medium Memphis Bbq Burger
+745,745,Carl's Jr.,Combo Medium Famous Star
+746,746,Carl's Jr.,Combo Double Western Beefbac Cheeseburger
+747,747,Carl's Jr.,Combo Superstar with Cheese
+748,748,Carl's Jr.,Western Beefbac Cheeseburger
+749,749,Carl's Jr.,Portobello Mushroom
+750,750,Carl's Jr.,Hawaiian Beef Burger
+751,751,Carl's Jr.,Memphis BBQ
+752,752,Carl's Jr.,Famous Star
+753,753,Carl's Jr.,Double Western Beefbac Cheeseburger
+754,754,Carl's Jr.,Superstar with Cheese
+755,755,Carl's Jr.,Combo Medium Cheeseburger
+756,756,Carl's Jr.,Combo Medium California Classic
+757,757,Carl's Jr.,Combo Medium BBQ Burger
+758,758,Carl's Jr.,Combo Medium Crispy Chicken
+759,759,Carl's Jr.,Cheeseburger
+760,760,Carl's Jr.,BBQ Burger
+761,761,Carl's Jr.,California Classic
+762,762,Carl's Jr.,Crispy Chicken Burger
+763,763,Carl's Jr.,Combo Medium Chicken Tender Burger
+764,764,Carl's Jr.,Chicken Tender Burger
+765,765,Carl's Jr.,Combo Medium Hawaiian Chicken
+766,766,Carl's Jr.,Hawaiian Chicken
+767,767,Carl's Jr.,Mushroom Bites with Classic Sauce
+768,768,Carl's Jr.,Beefbac BBQ Cheese Fries (R)
+769,769,Carl's Jr.,Beefbac Double Cheese Fries (R)
+770,770,Carl's Jr.,Chili Cheese Fries (R)
+771,771,Carl's Jr.,Onion Rings
+772,772,Carl's Jr.,Skin-on Fries (M)
+773,773,Carl's Jr.,Chicken Tender 2 Pcs
+774,774,Carl's Jr.,Rice
+775,775,Carl's Jr.,Sundae
+776,776,Carl's Jr.,Ice Cream Shakes
+777,777,Carl's Jr.,Soft Drink (M)
+778,778,Carl's Jr.,Iced Blackcurrant (M)
+779,779,Carl's Jr.,Iced Greentea (M)
+780,780,Carl's Jr.,Teh Pucuk Harum
+781,781,Carl's Jr.,Mineral Water 600ml
+782,782,Carl's Jr.,Iced Frestea Lemon Tea (M)
+783,783,Carl's Jr.,Takeaway Charge
+784,784,J.CO Donuts & Coffee,CHEESE STRIP M
+785,785,J.CO Donuts & Coffee,CHEESE STRIP L
+786,786,J.CO Donuts & Coffee,CHOCO STRIP M
+787,787,J.CO Donuts & Coffee,CHOCO STRIP L
+788,788,J.CO Donuts & Coffee,ICED LYCHEE TEA
+789,789,J.CO Donuts & Coffee,Totebag Peacock
+790,790,J.CO Donuts & Coffee,TIRAMISU FRAPPE
+791,791,J.CO Donuts & Coffee,CARAMEL JCOCCINO FRAPPE
+792,792,J.CO Donuts & Coffee,ICED CHOCOLATE MINT
+793,793,J.CO Donuts & Coffee,ICED GREEN TEA
+794,794,J.CO Donuts & Coffee,ICED CARAMEL JCOCCINO
+795,795,J.CO Donuts & Coffee,ICED CAFÉ LATTE
+796,796,J.CO Donuts & Coffee,ICED GREEN TEA LATTE
+797,797,J.CO Donuts & Coffee,ICED AMERICANO
+798,798,J.CO Donuts & Coffee,BLUEBERRY YOGURT FRAPPE
+799,799,J.CO Donuts & Coffee,ICED BROWN SUGAR LATTE
+800,800,J.CO Donuts & Coffee,STRAWBERRY YOGURT FRAPPE
+801,801,J.CO Donuts & Coffee,Hip-Hip Hooray!
+802,802,J.CO Donuts & Coffee,Eid Mubarak
+803,803,J.CO Donuts & Coffee,Thank You!
+804,804,J.CO Donuts & Coffee,Happy Lunar New Year
+805,805,J.CO Donuts & Coffee,Happy Birthday
+806,806,J.CO Donuts & Coffee,Season's Greetings
+807,807,J.CO Donuts & Coffee,Jclub Pack Americano / Hot Tea (Uno)
+808,808,J.CO Donuts & Coffee,Jclub Pack Jcoccino (Uno)
+809,809,J.CO Donuts & Coffee,Jclub Pack Chocolate (Uno)
+810,810,J.CO Donuts & Coffee,Sandwich Pack Americano (Due)
+811,811,J.CO Donuts & Coffee,Jcronut 1Dzn
+812,812,J.CO Donuts & Coffee,DONUTS 1/2 DZN
+813,813,J.CO Donuts & Coffee,DONUTS 1 DZN
+814,814,J.CO Donuts & Coffee,DONUTS 2 DZN
+815,815,J.CO Donuts & Coffee,JPOP 2 DZN
+816,816,J.CO Donuts & Coffee,Jclub 1/2 dzn
+817,817,J.CO Donuts & Coffee,1 Box Jpops DIY
+818,818,J.CO Donuts & Coffee,Jcool To Go
+819,819,J.CO Donuts & Coffee,Iced Americano 1L
+820,820,J.CO Donuts & Coffee,Iced Latte 1L
+821,821,J.CO Donuts & Coffee,Iced Jcoccino 1L
+822,822,J.CO Donuts & Coffee,Iced Brown Sugar 1L
+823,823,J.CO Donuts & Coffee,Iced Thai Tea 1L
+824,824,J.CO Donuts & Coffee,Iced Chocolate 1L
+825,825,J.CO Donuts & Coffee,Iced Mocha 1L
+826,826,J.CO Donuts & Coffee,Iced Lemon Tea 1L
+827,827,J.CO Donuts & Coffee,Iced Tiramisu Latte
+828,828,J.CO Donuts & Coffee,Iced Chocolate
+829,829,J.CO Donuts & Coffee,Choco Forest Frappe
+830,830,J.CO Donuts & Coffee,Avocado Frappe
+831,831,J.CO Donuts & Coffee,Iced Jcoccino
+832,832,J.CO Donuts & Coffee,Oreo Frappe
+833,833,J.CO Donuts & Coffee,Iced Thai Tea
+834,834,J.CO Donuts & Coffee,Chocolate Frappe
+835,835,J.CO Donuts & Coffee,Jcoccino Frappe
+836,836,J.CO Donuts & Coffee,Greentea Frappe
+837,837,J.CO Donuts & Coffee,Cheezy Rich
+838,838,J.CO Donuts & Coffee,Caramel Almond
+839,839,J.CO Donuts & Coffee,St Choco
+840,840,J.CO Donuts & Coffee,Cashew Crunchy
+841,841,J.CO Donuts & Coffee,Cashew Original
+842,842,J.CO Donuts & Coffee,Golden Nastar
+843,843,J.CO Donuts & Coffee,Mug Groovy (12 oz)
+844,844,J.CO Donuts & Coffee,Mug Coffee Time (16 oz)
+845,845,J.CO Donuts & Coffee,Jcoffee drip 1 box
+846,846,J.CO Donuts & Coffee,Red Velvet
+847,847,J.CO Donuts & Coffee,Black Forest
+848,848,J.CO Donuts & Coffee,Red Velvet Cheese
+849,849,J.CO Donuts & Coffee,Jcroffle
+850,850,J.CO Donuts & Coffee,Venus Hampers
+851,851,J.CO Donuts & Coffee,Mars Hampers
+852,852,J.CO Donuts & Coffee,Joy Hampers
+853,853,J.CO Donuts & Coffee,Bliss Hampers
+854,854,J.CO Donuts & Coffee,Delight Hampers
+855,855,J.CO Donuts & Coffee,Cheer Hampers
+856,856,J.CO Donuts & Coffee,Moon Hampers
+857,857,J.CO Donuts & Coffee,Grace Hampers
+858,858,J.CO Donuts & Coffee,Charm Hampers
+859,859,Starbucks,Buy 1 Get 1
+860,860,Starbucks,1 Strawberry Cookie Cream Frappuccino or 1 Iced Dolce Candy Latte
+861,861,Starbucks,New! Starbucks 6 x 250 ml
+862,862,Starbucks,New! Starbucks 3 x 250 ml
+863,863,Starbucks,2 Caramel Macchiato
+864,864,Starbucks,2 Java Chip Frappuccino
+865,865,Starbucks,Caramel Macchiato + Caramel Latte + Caramel Coffee Frappuccino
+866,866,Starbucks,JavaChip Frappuccino + Vanilla Cream Frappuccino + ChoChip Cream Frappuccino
+867,867,Starbucks,Asian Dolce Latte + Iced Vanilla Latte + Iced Signature Chocolate
+868,868,Starbucks,2 Java Chip Frappuccino + 2 Caramel Macchiato
+869,869,Starbucks,2 Green Tea Frappuccino + 2 Caramel Macchiato
+870,870,Starbucks,Mango Macaroon Cream Frappuccino
+871,871,Starbucks,Iced Ultra Caramel On The Rock Americano
+872,872,Starbucks,Iced Cinnamon Roll Latte
+873,873,Starbucks,Iced Raspberry Candy Milk
+874,874,Starbucks,Buy 1 Get 1
+875,875,Starbucks,1 Strawberry Cookie Cream Frappuccino or 1 Iced Dolce Candy Latte
+876,876,Starbucks,Starbucks Special 21st Anniversary
+877,877,Starbucks,"BREAKFAST (Selected Food + Americano / Latte, Tall Size)"
+878,878,Starbucks,"LUNCH (Selected Food + Iced Shaken Lemonade / Americano / Latte, Tall Size)"
+879,879,Starbucks,"COFFEE BREAK (Selected Food + Americano / Latte, Tall Size)"
+880,880,Starbucks,New! Starbucks 6 x 250 ml
+881,881,Starbucks,New! Starbucks 3 x 250 ml
+882,882,Starbucks,2 Caramel Macchiato
+883,883,Starbucks,2 Java Chip Frappuccino
+884,884,Starbucks,Caramel Macchiato + Caramel Latte + Caramel Coffee Frappuccino
+885,885,Starbucks,JavaChip Frappuccino + Vanilla Cream Frappuccino + ChoChip Cream Frappuccino
+886,886,Starbucks,Asian Dolce Latte + Iced Vanilla Latte + Iced Signature Chocolate
+887,887,Starbucks,2 Java Chip Frappuccino + 2 Caramel Macchiato
+888,888,Starbucks,2 Green Tea Frappuccino + 2 Caramel Macchiato
+889,889,Starbucks,Americano + VIA Italian Roast / Colombia
+890,890,Starbucks,Double Shot Ice Shaken Espresso (10 oz)
+891,891,Starbucks,Asian Dolce Latte
+892,892,Starbucks,Caffe Americano
+893,893,Starbucks,Salted Caramel Macchiato
+894,894,Starbucks,Caramel Macchiato
+895,895,Starbucks,Salted Caramel Latte
+896,896,Starbucks,Cold Brew Coffee
+897,897,Starbucks,Caramel Latte
+898,898,Starbucks,Vanilla Latte
+899,899,Starbucks,Hazelnut Latte
+900,900,Starbucks,Caffe Latte
+901,901,Starbucks,Cappuccino
+902,902,Starbucks,Vanilla Sweet Cream Cold Brew
+903,903,Starbucks,Caffe Mocha
+904,904,Starbucks,Tea Latte
+905,905,Starbucks,Teavana Iced Tea
+906,906,Starbucks,Iced Shaken Lemonade Tea
+907,907,Starbucks,Teavana Tea ( Tea Bag )
+908,908,Starbucks,Caramel Signature Chocolate
+909,909,Starbucks,Signature Chocolate
+910,910,Starbucks,Hazelnut Signature Chocolate
+911,911,Starbucks,Green Tea Latte
+912,912,Starbucks,Milk
+913,913,Starbucks,Classic Chocolate
+914,914,Starbucks,Caramel Macchiato Frappuccino
+915,915,Starbucks,Vanilla Cream Frappuccino
+916,916,Starbucks,Caramel Cream Frappuccino
+917,917,Starbucks,Hazelnut Cream Frappuccino
+918,918,Starbucks,Double Chocolate Cream Frappuccino
+919,919,Starbucks,Green Tea Cream Frappuccino
+920,920,Starbucks,Coffee Frappuccino
+921,921,Starbucks,Salted Caramel Javachip Frappuccino
+922,922,Starbucks,Caramel Frappuccino
+923,923,Starbucks,Mocha Frappuccino
+924,924,Starbucks,Asian Dolce Frappuccino
+925,925,Starbucks,Hazelnut Frappuccino
+926,926,Starbucks,Espresso Frappuccino
+927,927,Starbucks,Caramel Java Chip Frappuccino
+928,928,Starbucks,Dark Mocha Frappuccino
+929,929,Starbucks,Java Chip Frappuccino
+930,930,Starbucks,Raspberry Curant Frappuccino
+931,931,Starbucks,Mango Passion Frappuccino
+932,932,Starbucks,Belgium Chocolate Frappuccino
+933,933,Starbucks,Cantaloupe Cream Frappuccino
+934,934,Starbucks,Sweet Dates Cookie
+935,935,Starbucks,Mexican Beef Sausage Sandwich
+936,936,Starbucks,Klappertaart Cake
+937,937,Starbucks,Egg Mayo Breakfast Sandwich
+938,938,Starbucks,Kolak Ubi Cake
+939,939,Starbucks,1 Liter Bottled Non Coffee Beverage
+940,940,Starbucks,1 Liter Bottled Coffee Beverage
+941,941,Starbucks,Butter Croissant
+942,942,Starbucks,Cinnamon Rolls
+943,943,Starbucks,Peanut Butter Panini Sandwich
+944,944,Starbucks,Classic Dark Chocolate
+945,945,Starbucks,Raisin Oatmeal Scones
+946,946,Starbucks,Cheese Quiche
+947,947,Starbucks,Chocolate Croissant
+948,948,Starbucks,Tuna Cheese Whole Wheat Panini
+949,949,Starbucks,Via Red Velvet
+950,950,Starbucks,Beef Filone Sandwich
+951,951,Starbucks,New york cheese cake
+952,952,Starbucks,Smoked Beef Quiche
+953,953,Starbucks,Scarlet Velvet Cake
+954,954,Starbucks,Espresso Brownies
+955,955,Starbucks,Smoked Beef Mushroom & Cheese Panini
+956,956,Starbucks,Classic Tuna Toastie
+957,957,Starbucks,Almond Croissant
+958,958,Starbucks,Cookies
+959,959,Starbucks,Tuna Puff
+960,960,Starbucks,Spicy Tuna Bread
+961,961,Starbucks,Beef Sausage & Cheese Croissant
+962,962,Starbucks,GRAB & GO
+963,963,Starbucks,Whole Bean Special Summer 1 2023
+964,964,Starbucks,VIA Black Coffee
+965,965,Starbucks,VIA Flavoured Coffee
+966,966,Starbucks,Whole Bean 250Gr (Medium Roast)
+967,967,Starbucks,Whole Bean 250Gr (Dark Roast)
+968,968,Starbucks,Whole Bean 250Gr (Blonde Roast)
+969,969,Starbucks,Packaged Teas (12 Full-Leaf Bags)
+970,970,Starbucks,Starbucks Summer 1 Collection 2023
+971,971,Starbucks,1L Reusable Waterbottle Colorful Weaves
+972,972,Starbucks,Starbucks Woman in Coffee
+973,973,Starbucks,Starbucks Navy Edition
+974,974,Starbucks,Starbucks Essential Grey
+975,975,Starbucks,Starbucks Pattern of Nature
+976,976,Starbucks,Starbucks Tumbler Collection
+977,977,Starbucks,Starbucks Essential
+978,978,Starbucks,Starbucks Translucent & Green Collection
+979,979,Starbucks,Spunbond Small & Large
+980,980,Starbucks,Starbucks Butter Edition
+981,981,Starbucks,1 L Bottle Kreaby
+982,982,Dunkin' Donuts,Paket 12 donut dan DD Card 2023
+983,983,Dunkin' Donuts,Iced Orange Juice (250 ml)
+984,984,Dunkin' Donuts,Iced Lemon Tea (250 ml)
+985,985,Dunkin' Donuts,Iced Thai Tea (250 ml)
+986,986,Dunkin' Donuts,Iced Blueberry (250 ml)
+987,987,Dunkin' Donuts,Iced Chocolate (250 ml)
+988,988,Dunkin' Donuts,Iced Cappuccino (250 ml)
+989,989,Dunkin' Donuts,Iced Green Tea (250 ml)
+990,990,Dunkin' Donuts,Scramble Egg with Cheese
+991,991,Dunkin' Donuts,Smoked Chicken with Cheese
+992,992,Dunkin' Donuts,Smoked Beef with Cheese
+993,993,Dunkin' Donuts,Smoked Chicken with Egg and Cheese
+994,994,Dunkin' Donuts,Smoked Beef with Egg and Cheese
+995,995,Dunkin' Donuts,"Ddoffle Isi 3 (Original, Cheese, Cinnamon)"
+996,996,Dunkin' Donuts,Donut paket 6
+997,997,Dunkin' Donuts,Donut paket 12
+998,998,Dunkin' Donuts,Donut fancy
+999,999,Dunkin' Donuts,Iced coffee (ukuran M)
+1000,1000,Dunkin' Donuts,Iced cafe latte hazelnut (ukuran M)
+1001,1001,Dunkin' Donuts,Iced cafe latte vanilla (ukuran M)
+1002,1002,Dunkin' Donuts,Coollata cappuccino (ukuran M)
+1003,1003,Dunkin' Donuts,Coollata strawberry (ukuran M)
+1004,1004,Dunkin' Donuts,Coollata dark cocoa (ukuran M)
+1005,1005,Dunkin' Donuts,Brown sugar coffee (ukuran M)
+1006,1006,Dunkin' Donuts,Spunbond
+1007,1007,Texas Chicken,Combo Royal Herbs
+1008,1008,Texas Chicken,Combo Royal Herbs Family
+1009,1009,Texas Chicken,Royal Herbs Platter
+1010,1010,Texas Chicken,Royal Herbs Fries
+1011,1011,Texas Chicken,1 pt Ayam Royal Herbs Ala Carte
+1012,1012,Texas Chicken,3 pt Ayam Royal Herbs Ala Carte
+1013,1013,Texas Chicken,Nasi Briyani
+1014,1014,Texas Chicken,Hibiscus Tea
+1015,1015,Texas Chicken,Combo Royal Herbs
+1016,1016,Texas Chicken,Combo Royal Herbs Family
+1017,1017,Texas Chicken,Royal Herbs Platter
+1018,1018,Texas Chicken,Royal Herbs Fries
+1019,1019,Texas Chicken,1 pt Ayam Royal Herbs Ala Carte
+1020,1020,Texas Chicken,3 pt Ayam Royal Herbs Ala Carte
+1021,1021,Texas Chicken,Nasi Briyani
+1022,1022,Texas Chicken,Hibiscus Tea
+1023,1023,Texas Chicken,Spicy BBQ Sauce
+1024,1024,Texas Chicken,Texas Ricebowl Saus Blackpepper
+1025,1025,Texas Chicken,Honey Butter Biscuit 3 pcs
+1026,1026,Texas Chicken,Fries
+1027,1027,Texas Chicken,Nasi Goreng
+1028,1028,Texas Chicken,Nasi Putih
+1029,1029,Texas Chicken,Ati & Ampela
+1030,1030,Texas Chicken,Coleslaw
+1031,1031,Texas Chicken,Mashed Potatoes
+1032,1032,Texas Chicken,Chicken Skin & Saus Gravy
+1033,1033,Texas Chicken,Jr. Mexicana Burger
+1034,1034,Texas Chicken,Zesty Crunch Wrap
+1035,1035,Texas Chicken,Mexicana Wrap
+1036,1036,Texas Chicken,1pt Ayam (ORI/SPC)
+1037,1037,Texas Chicken,5 pt Ayam (ORI/SPC/MIX)
+1038,1038,Texas Chicken,8 pt Ayam (ORI/SPC/MIX)
+1039,1039,Texas Chicken,2 pt Tender (ORI/SPC)
+1040,1040,Texas Chicken,4 pt Tender(ORI/SPC)
+1041,1041,Texas Chicken,Star Box 1
+1042,1042,Texas Chicken,Star Box 2
+1043,1043,Texas Chicken,Star Box 3
+1044,1044,Texas Chicken,Star Box 4
+1045,1045,Texas Chicken,COMBO 5PC Family Saver
+1046,1046,Texas Chicken,COMBO 5PC Fiesta Feast
+1047,1047,Texas Chicken,COMBO 1PC
+1048,1048,Texas Chicken,COMBO 2PC
+1049,1049,Texas Chicken,COMBO 2PC VARIASI
+1050,1050,Texas Chicken,COMBO Jr. Mexicana Burger
+1051,1051,Texas Chicken,COMBO Zesty Crunch Wrap
+1052,1052,Texas Chicken,COMBO Mexicana Wrap
+1053,1053,Texas Chicken,Cleo
+1054,1054,Texas Chicken,Coca-cola
+1055,1055,Texas Chicken,Fanta
+1056,1056,Texas Chicken,Sprite
+1057,1057,Texas Chicken,Frestea Jasmine
+1058,1058,Texas Chicken,Frestea Lemon
+1059,1059,Texas Chicken,Coca-cola
+1060,1060,Texas Chicken,Fanta
+1061,1061,Texas Chicken,Sprite
+1062,1062,Texas Chicken,Frestea Jasmine
+1063,1063,Texas Chicken,Frestea Lemon
+1064,1064,Texas Chicken,Superdeal Oktober
+1065,1065,Texas Chicken,3 PT Ayam MultiRasa Ala Carte
+1066,1066,Texas Chicken,Combo 3Rasa Party
+1067,1067,Texas Chicken,Herb & Garlic Fries
+1068,1068,Texas Chicken,Chilli Paprika Platter
+1069,1069,Texas Chicken,1 PT Ayam 3Rasa Ala Carte
+1070,1070,Texas Chicken,5 PC Ayam Glazed Herb & Garlic
+1071,1071,Texas Chicken,Texas Tuesday Deal
+1072,1072,Texas Chicken,Chocolate Sundae
+1073,1073,Texas Chicken,Strawberry Sundae
+1074,1074,Texas Chicken,Chocolate Shortcake
+1075,1075,Texas Chicken,Strawberry Shortcake
+1076,1076,Texas Chicken,Coca-cola Float
+1077,1077,Texas Chicken,Fanta Float
+1078,1078,Texas Chicken,Sprite Float
+1079,1079,Texas Chicken,Combo Kremes
+1080,1080,CFC,3 Ayam
+1081,1081,CFC,4 Menu 59 Ribu
+1082,1082,CFC,5 Ayam
+1083,1083,CFC,7 Ayam
+1084,1084,CFC,CFC Boks Combo + Pilih Sendiri Gratisanmu
+1085,1085,CFC,CFC Boks + Pilih Sendiri Gratisanmu
+1086,1086,CFC,4 Menu 59 Ribu
+1087,1087,CFC,3 Ayam
+1088,1088,CFC,5 Ayam
+1089,1089,CFC,7 Ayam
+1090,1090,CFC,Fun Meal 1
+1091,1091,CFC,Fun Meal 2
+1092,1092,CFC,Fun Meal 3
+1093,1093,CFC,Astaga 1
+1094,1094,CFC,Astaga 2
+1095,1095,CFC,Astaga 3
+1096,1096,CFC,Astaga 4
+1097,1097,CFC,Astaga 5
+1098,1098,CFC,Sensasi 1
+1099,1099,CFC,Sensasi 2
+1100,1100,CFC,CFC Boks
+1101,1101,CFC,CFC Boks Combo
+1102,1102,CFC,Super 5
+1103,1103,CFC,Combo Favorit
+1104,1104,CFC,Paket Family
+1105,1105,CFC,CFC Boks Combo + Pilih Sendiri Gratisanmu
+1106,1106,CFC,CFC Boks + Pilih Sendiri Gratisanmu
+1107,1107,CFC,Sambal Warisan
+1108,1108,CFC,Sambal Hijau
+1109,1109,CFC,Sambal Terasi
+1110,1110,CFC,California Burger
+1111,1111,CFC,California Cheese Burger
+1112,1112,CFC,Chicken Pop (9 Pcs)
+1113,1113,CFC,Chicken Strips (3 Pcs)
+1114,1114,CFC,Chicken Kranz
+1115,1115,CFC,Dada
+1116,1116,CFC,Paha Atas
+1117,1117,CFC,Sayap
+1118,1118,CFC,Paha Bawah
+1119,1119,CFC,Mix Combo A
+1120,1120,CFC,Mix Combo B
+1121,1121,CFC,Cheesy Fries
+1122,1122,CFC,French Fries Regular
+1123,1123,CFC,French Fries Large
+1124,1124,CFC,Onion Ring
+1125,1125,CFC,Perkedel
+1126,1126,CFC,Rice
+1127,1127,CFC,Es Coklat
+1128,1128,CFC,Kopi Susu Gula Aren
+1129,1129,CFC,Thai Tea
+1130,1130,CFC,Teh Pucuk Harum 350 ML
+1131,1131,CFC,Coca-Cola PET 250 ML
+1132,1132,CFC,Le Minerale 330 ML
+1133,1133,CFC,Greenfields UHT 125ml
+1134,1134,The Coffee Bean & Tea Leaf,Pandan Latte (S)
+1135,1135,The Coffee Bean & Tea Leaf,Iced Ultimate Aren Latte (S)
+1136,1136,The Coffee Bean & Tea Leaf,Americano (S)
+1137,1137,The Coffee Bean & Tea Leaf,Iced Greentea Latte (S)
+1138,1138,The Coffee Bean & Tea Leaf,I/ Double Chocolate (S)
+1139,1139,The Coffee Bean & Tea Leaf,Green Tea Latte (S)
+1140,1140,The Coffee Bean & Tea Leaf,Green Tea Latte (R)
+1141,1141,The Coffee Bean & Tea Leaf,Green Tea Latte (L)
+1142,1142,The Coffee Bean & Tea Leaf,Iced GreenTea Latte(S)
+1143,1143,The Coffee Bean & Tea Leaf,Iced GreenTea Latte(R)
+1144,1144,The Coffee Bean & Tea Leaf,Classic Tea Line
+1145,1145,The Coffee Bean & Tea Leaf,Iced Tea (S)
+1146,1146,The Coffee Bean & Tea Leaf,Iced Tea (R)
+1147,1147,The Coffee Bean & Tea Leaf,Mango Rave (S)
+1148,1148,The Coffee Bean & Tea Leaf,Mango Rave (R)
+1149,1149,The Coffee Bean & Tea Leaf,Orange Brisk (S)
+1150,1150,The Coffee Bean & Tea Leaf,Orange Brisk (R)
+1151,1151,The Coffee Bean & Tea Leaf,Mocha IB (S)
+1152,1152,The Coffee Bean & Tea Leaf,Mocha IB (R)
+1153,1153,The Coffee Bean & Tea Leaf,Vanilla IB (S)
+1154,1154,The Coffee Bean & Tea Leaf,Vanilla IB (R)
+1155,1155,The Coffee Bean & Tea Leaf,Hazelnut IB (S)
+1156,1156,The Coffee Bean & Tea Leaf,Hazelnut IB (R)
+1157,1157,The Coffee Bean & Tea Leaf,Cook & Cream IB (S)
+1158,1158,The Coffee Bean & Tea Leaf,Cook & Cream IB (R)
+1159,1159,The Coffee Bean & Tea Leaf,Caramel IB (S)
+1160,1160,The Coffee Bean & Tea Leaf,Caramel IB (R)
+1161,1161,The Coffee Bean & Tea Leaf,Avocado Coffee IB (S)
+1162,1162,The Coffee Bean & Tea Leaf,Avocado Coffee IB (R)
+1163,1163,The Coffee Bean & Tea Leaf,Ultimate IB (S)
+1164,1164,The Coffee Bean & Tea Leaf,Ultimate IB (R)
+1165,1165,The Coffee Bean & Tea Leaf,Blck Frst Mocha (S)
+1166,1166,The Coffee Bean & Tea Leaf,Blck Frst Mocha (R)
+1167,1167,The Coffee Bean & Tea Leaf,Blck Frst Vanilla (S)
+1168,1168,The Coffee Bean & Tea Leaf,Blck Frst Vanilla (R)
+1169,1169,The Coffee Bean & Tea Leaf,Iced Coffee (S)
+1170,1170,The Coffee Bean & Tea Leaf,Iced Coffee (R)
+1171,1171,The Coffee Bean & Tea Leaf,Iced Cappucino (S)
+1172,1172,The Coffee Bean & Tea Leaf,Iced Cappucino (R)
+1173,1173,The Coffee Bean & Tea Leaf,Iced Cafe Latte (S)
+1174,1174,The Coffee Bean & Tea Leaf,Iced Cafe Latte (R)
+1175,1175,The Coffee Bean & Tea Leaf,Car. Machiato ID (S)
+1176,1176,The Coffee Bean & Tea Leaf,Car. Machiato ID (R)
+1177,1177,The Coffee Bean & Tea Leaf,Mocha Latte ID (S)
+1178,1178,The Coffee Bean & Tea Leaf,Mocha Latte ID (R)
+1179,1179,The Coffee Bean & Tea Leaf,Vanilla Latte ID (S)
+1180,1180,The Coffee Bean & Tea Leaf,Vanilla Latte ID (R)
+1181,1181,The Coffee Bean & Tea Leaf,I / Hazelnut Latte (S)
+1182,1182,The Coffee Bean & Tea Leaf,I / Hazelnut Latte (R)
+1183,1183,The Coffee Bean & Tea Leaf,Caramel Latte ID (S)
+1184,1184,The Coffee Bean & Tea Leaf,Caramel Latte ID (R)
+1185,1185,The Coffee Bean & Tea Leaf,Iced Vietnam Coffee (S)
+1186,1186,The Coffee Bean & Tea Leaf,Hot Choc (S)
+1187,1187,The Coffee Bean & Tea Leaf,Hot Choc (R)
+1188,1188,The Coffee Bean & Tea Leaf,Hot Choc (L)
+1189,1189,The Coffee Bean & Tea Leaf,Hot Vanilla (S)
+1190,1190,The Coffee Bean & Tea Leaf,Hot Vanilla (R)
+1191,1191,The Coffee Bean & Tea Leaf,Hot Vanilla (L)
+1192,1192,The Coffee Bean & Tea Leaf,Hot Double Chocolate (S)
+1193,1193,The Coffee Bean & Tea Leaf,Hot Double Chocolate (R)
+1194,1194,The Coffee Bean & Tea Leaf,Hot Double Chocolate (L)
+1195,1195,The Coffee Bean & Tea Leaf,I / Double Chocolate (S)
+1196,1196,The Coffee Bean & Tea Leaf,I / Double Chocolate (R)
+1197,1197,The Coffee Bean & Tea Leaf,Pandan Latte (S)
+1198,1198,The Coffee Bean & Tea Leaf,Iced Ultimate Aren Latte (S)
+1199,1199,The Coffee Bean & Tea Leaf,Americano (S)
+1200,1200,The Coffee Bean & Tea Leaf,Iced Greentea Latte (S)
+1201,1201,The Coffee Bean & Tea Leaf,I/ Double Chocolate (S)
+1202,1202,The Coffee Bean & Tea Leaf,Iced Fruit Punch Tea (S)
+1203,1203,The Coffee Bean & Tea Leaf,Warm Chcocolate Muffin
+1204,1204,The Coffee Bean & Tea Leaf,Low Fat Orange Muffin
+1205,1205,The Coffee Bean & Tea Leaf,Butter Croissant
+1206,1206,The Coffee Bean & Tea Leaf,Espresso Single
+1207,1207,The Coffee Bean & Tea Leaf,Espresso Double
+1208,1208,The Coffee Bean & Tea Leaf,Macchiato Single
+1209,1209,The Coffee Bean & Tea Leaf,Macchiato Double
+1210,1210,The Coffee Bean & Tea Leaf,Cappucino Single
+1211,1211,The Coffee Bean & Tea Leaf,Cappucino Double
+1212,1212,The Coffee Bean & Tea Leaf,Americano Single
+1213,1213,The Coffee Bean & Tea Leaf,Americano Double
+1214,1214,The Coffee Bean & Tea Leaf,Cafe Latte (S)
+1215,1215,The Coffee Bean & Tea Leaf,Cafe Latte (R)
+1216,1216,The Coffee Bean & Tea Leaf,Cafe Latte (L)
+1217,1217,The Coffee Bean & Tea Leaf,Swiss Mocha Latte(S)
+1218,1218,The Coffee Bean & Tea Leaf,Swiss Mocha Latte(R)
+1219,1219,The Coffee Bean & Tea Leaf,Swiss Mocha Latte(L)
+1220,1220,The Coffee Bean & Tea Leaf,Vanilla Latte (S)
+1221,1221,The Coffee Bean & Tea Leaf,Vanilla Latte (R)
+1222,1222,The Coffee Bean & Tea Leaf,Vanilla Latte (L)
+1223,1223,The Coffee Bean & Tea Leaf,Car. Machiato Lat (S)
+1224,1224,The Coffee Bean & Tea Leaf,Car. Machiato Lat (R)
+1225,1225,The Coffee Bean & Tea Leaf,Car. Machiato Lat (L)
+1226,1226,The Coffee Bean & Tea Leaf,Caramel Latte (S)
+1227,1227,The Coffee Bean & Tea Leaf,Caramel Latte (R)
+1228,1228,The Coffee Bean & Tea Leaf,Caramel Latte (L)
+1229,1229,The Coffee Bean & Tea Leaf,Hazelnut Latte (S)
+1230,1230,The Coffee Bean & Tea Leaf,Hazelnut Latte (R)
+1231,1231,The Coffee Bean & Tea Leaf,Hazelnut Latte (L)
+1232,1232,The Coffee Bean & Tea Leaf,Pure Choc IB (S)
+1233,1233,The Coffee Bean & Tea Leaf,Pure Choc IB (R)
+1234,1234,The Coffee Bean & Tea Leaf,Pure Double Chocolate (S)
+1235,1235,The Coffee Bean & Tea Leaf,Pure Double Chocolate (R)
+1236,1236,The Coffee Bean & Tea Leaf,Pure Vanilla IB (S)
+1237,1237,The Coffee Bean & Tea Leaf,Pure Vanilla IB (R)
+1238,1238,The Coffee Bean & Tea Leaf,Green Tea IB ( S )
+1239,1239,The Coffee Bean & Tea Leaf,Green Tea IB ( R )
+1240,1240,The Coffee Bean & Tea Leaf,Kue Putu IB (S)
+1241,1241,The Coffee Bean & Tea Leaf,Royal Regal IB (S)
+1242,1242,The Coffee Bean & Tea Leaf,Wakame Tuna Salad
+1243,1243,The Coffee Bean & Tea Leaf,Chicken Parmigiana
+1244,1244,The Coffee Bean & Tea Leaf,Fettucine Carbonara
+1245,1245,The Coffee Bean & Tea Leaf,Aglio Oilio
+1246,1246,The Coffee Bean & Tea Leaf,Pizza Meat
+1247,1247,The Coffee Bean & Tea Leaf,Pizza Mushroom
+1248,1248,The Coffee Bean & Tea Leaf,Steak Sandwich
+1249,1249,The Coffee Bean & Tea Leaf,Quesadilla
+1250,1250,The Coffee Bean & Tea Leaf,Espresso Brownie
+1251,1251,The Coffee Bean & Tea Leaf,CBTreats 2
+1252,1252,The Coffee Bean & Tea Leaf,CBTreats 1
+1253,1253,The Coffee Bean & Tea Leaf,STRAWBERRY CUSTARD
+1254,1254,The Coffee Bean & Tea Leaf,CARAMEL CUSTARD
+1255,1255,The Coffee Bean & Tea Leaf,BROWN SUGAR CUSTARD
+1256,1256,The Coffee Bean & Tea Leaf,Ginger Chocolate
+1257,1257,The Coffee Bean & Tea Leaf,Lemon Ginger Honey
+1258,1258,The Coffee Bean & Tea Leaf,Pink Chai Latte
+1259,1259,The Coffee Bean & Tea Leaf,Tumeric Lemonade
+1260,1260,The Coffee Bean & Tea Leaf,Almond Cookies ( B )
+1261,1261,The Coffee Bean & Tea Leaf,Choc Chip Cookies ( B )
+1262,1262,The Coffee Bean & Tea Leaf,Triple Choc Chips Cookies (B)
+1263,1263,The Coffee Bean & Tea Leaf,Almond Croissant
+1264,1264,The Coffee Bean & Tea Leaf,Beef Croissant
+1265,1265,The Coffee Bean & Tea Leaf,Butter Croissant
+1266,1266,The Coffee Bean & Tea Leaf,Cheese Croissant
+1267,1267,The Coffee Bean & Tea Leaf,Chicken Croissant
+1268,1268,The Coffee Bean & Tea Leaf,Chocolate Croissant
+1269,1269,The Coffee Bean & Tea Leaf,Banana Muffin
+1270,1270,The Coffee Bean & Tea Leaf,Blueberry Muffin
+1271,1271,The Coffee Bean & Tea Leaf,Choc Chip Muffin
+1272,1272,The Coffee Bean & Tea Leaf,Low Fat Orange Muffin
+1273,1273,The Coffee Bean & Tea Leaf,Almond Banana Tart
+1274,1274,The Coffee Bean & Tea Leaf,Chicago Cheese Cake
+1275,1275,The Coffee Bean & Tea Leaf,Choc Fudge Cake
+1276,1276,The Coffee Bean & Tea Leaf,Dark Choco Cheesecake
+1277,1277,The Coffee Bean & Tea Leaf,Oreo Cheese Cake
+1278,1278,The Coffee Bean & Tea Leaf,Warm Chocolate Muffin
+1279,1279,The Coffee Bean & Tea Leaf,Raisin Danish
+1280,1280,The Coffee Bean & Tea Leaf,Swiss Choco Danish
+1281,1281,The Coffee Bean & Tea Leaf,Iced Matcha Strawberry ( S )
+1282,1282,The Coffee Bean & Tea Leaf,Hot Matcha Strawberry ( R )
+1283,1283,The Coffee Bean & Tea Leaf,Matcha Strawberry Iced Blended (S)
+1284,1284,The Coffee Bean & Tea Leaf,Savories festive 1
+1285,1285,The Coffee Bean & Tea Leaf,savories festive 2
+1286,1286,The Coffee Bean & Tea Leaf,sweet festive 1
+1287,1287,The Coffee Bean & Tea Leaf,sweet festive 2
+1288,1288,The Coffee Bean & Tea Leaf,Better Twogether
+1289,1289,The Coffee Bean & Tea Leaf,The Perfect Pair 2
+1290,1290,The Coffee Bean & Tea Leaf,Big Bottle Festival
+1291,1291,The Coffee Bean & Tea Leaf,All - Together 1
+1292,1292,The Coffee Bean & Tea Leaf,All - Together 2
+1293,1293,The Coffee Bean & Tea Leaf,All - Together 3
+1294,1294,The Coffee Bean & Tea Leaf,All - Together 4
+1295,1295,The Coffee Bean & Tea Leaf,All - Together 5
+1296,1296,The Coffee Bean & Tea Leaf,All - Together 6
+1297,1297,The Coffee Bean & Tea Leaf,Beef Roll
+1298,1298,The Coffee Bean & Tea Leaf,Newyork Sausage Roll
+1299,1299,The Coffee Bean & Tea Leaf,Cakalang Roll
+1300,1300,The Coffee Bean & Tea Leaf,Macaroni Schotel
+1301,1301,The Coffee Bean & Tea Leaf,Beef Lasagna
+1302,1302,The Coffee Bean & Tea Leaf,Beef Brisket Open SW
+1303,1303,The Coffee Bean & Tea Leaf,Brek 'O' Day
+1304,1304,The Coffee Bean & Tea Leaf,Long John Gyu Teriyaki
+1305,1305,The Coffee Bean & Tea Leaf,Teriyaki Tori Burger
+1306,1306,The Coffee Bean & Tea Leaf,Roasted Baby Chicken
+1307,1307,Krispy Kreme,Special Hampers
+1308,1308,Krispy Kreme,Party Combo 2 Dozen
+1309,1309,Krispy Kreme,Party Combo 3 Dozen
+1310,1310,Krispy Kreme,Party Combo 4 Dozen
+1311,1311,Krispy Kreme,Promo Dozen & Drinks
+1312,1312,Krispy Kreme,Menu 1
+1313,1313,Krispy Kreme,Menu 3
+1314,1314,Krispy Kreme,Menu 2
+1315,1315,Krispy Kreme,Special Hampers
+1316,1316,Krispy Kreme,Party Combo 2 Dozen
+1317,1317,Krispy Kreme,Party Combo 3 Dozen
+1318,1318,Krispy Kreme,Party Combo 4 Dozen
+1319,1319,Krispy Kreme,Promo Dozen & Drinks
+1320,1320,Krispy Kreme,1 lusin Original Glazed
+1321,1321,Krispy Kreme,1 lusin Premium Assorted Doughnut
+1322,1322,Krispy Kreme,1 lusin Mixed Assorted Doughnut
+1323,1323,Krispy Kreme,1 lusin Basic Assorted Doughnut
+1324,1324,Krispy Kreme,1/2 lusin Original Glazed
+1325,1325,Krispy Kreme,1/2 lusin Premium Assorted Doughnut
+1326,1326,Krispy Kreme,1/2 lusin Mixed Assorted Doughnut
+1327,1327,Krispy Kreme,1/2 lusin Basic Assorted Doughnut
+1328,1328,Krispy Kreme,Menu 1
+1329,1329,Krispy Kreme,Menu 3
+1330,1330,Krispy Kreme,Menu 2
+1331,1331,Krispy Kreme,Es Kopi Susu Gelas
+1332,1332,Krispy Kreme,Iced Mango Milky
+1333,1333,Krispy Kreme,Iced Chocolate
+1334,1334,Krispy Kreme,Iced Lemon Tea
+1335,1335,Krispy Kreme,Es Kopi Susu Brown Sugar
+1336,1336,Krispy Kreme,Buy 1 Get 1 Promo
+1337,1337,Krispy Kreme,Buy 1 Get 1
+1338,1338,Krispy Kreme,Krispy Kreme CFW
+1339,1339,Krispy Kreme,Chocolate Glazed is BACK!
+1340,1340,Krispy Kreme,Merchandise Package 1
+1341,1341,Krispy Kreme,Merchandise Package 2
+1342,1342,Krispy Kreme,Merchandise Package 3
+1343,1343,Krispy Kreme,Happiness Delight
+1344,1344,Krispy Kreme,BUY 12 GET 12 DOUGHNUT
+1345,1345,Krispy Kreme,BUY 12 GET 12 BASIC DOUGHNUT
+1346,1346,Krispy Kreme,BUY 12 GET 12 PREMIUM DOUGHNUT
+1347,1347,Krispy Kreme,Magical Doughnut Décor Kit
+1348,1348,Krispy Kreme,Krispy Kreme Doughnut Décor
+1349,1349,Krispy Kreme,Krispy Kreme Doughnut Décor Rainbow
+1350,1350,Wingstop,GRAB WINGSTOP CHICKEN I
+1351,1351,Wingstop,GRAB WINGSTOP CHICKEN II
+1352,1352,Wingstop,GRAB WINGSTOP CHICKEN III
+1353,1353,Wingstop,GRAB WINGSTOP CHICKEN IV
+1354,1354,Wingstop,GRAB WINGSTOP CHICKEN V
+1355,1355,Wingstop,GRAB WINGSTOP CHICKEN VI
+1356,1356,Wingstop,Wingsday Mixes
+1357,1357,Wingstop,Twin Flavor Box
+1358,1358,Wingstop,Family Flavor Box
+1359,1359,Wingstop,Super Flavor Box
+1360,1360,Wingstop,Wingstop Chicken 1 pc
+1361,1361,Wingstop,Wingstop Chicken 5 pcs
+1362,1362,Wingstop,Wingstop Chicken 10 pcs
+1363,1363,Wingstop,Chicken Meal RICE 1
+1364,1364,Wingstop,Chicken Meal RICE 2
+1365,1365,Wingstop,Chicken Meal Fries 1
+1366,1366,Wingstop,Chicken Meal Fries 2
+1367,1367,Wingstop,Wingstop Chicken Flavor Box I
+1368,1368,Wingstop,Wingstop Chicken Flavor Box II
+1369,1369,Wingstop,GRAB WINGSTOP CHICKEN I
+1370,1370,Wingstop,GRAB WINGSTOP CHICKEN II
+1371,1371,Wingstop,GRAB WINGSTOP CHICKEN III
+1372,1372,Wingstop,GRAB WINGSTOP CHICKEN IV
+1373,1373,Wingstop,GRAB WINGSTOP CHICKEN V
+1374,1374,Wingstop,GRAB WINGSTOP CHICKEN VI
+1375,1375,Wingstop,Wingsday Mixes
+1376,1376,Wingstop,Boneless Wings 7 Pcs
+1377,1377,Wingstop,Crunchy Wings 7 pcs
+1378,1378,Wingstop,Classic Wings 7 pcs
+1379,1379,Wingstop,Twin Flavor Box
+1380,1380,Wingstop,Family Flavor Box
+1381,1381,Wingstop,Super Flavor Box
+1382,1382,Wingstop,Combo Flavor Krezz Krezz
+1383,1383,Wingstop,Rice Set Meal
+1384,1384,Wingstop,Mixed Wings Meal
+1385,1385,Wingstop,Crunchy Wings Meal
+1386,1386,Wingstop,Combo Flavor Krezz Krezz
+1387,1387,Wingstop,Rice Set Meal
+1388,1388,Wingstop,Mixed Wings Meal
+1389,1389,Wingstop,Crunchy Wings Meal
+1390,1390,Wingstop,Combo Flavor Krezz Krezz
+1391,1391,Wingstop,Mixed Wings Meal
+1392,1392,Wingstop,Crunchy Wings Meal
+1393,1393,Wingstop,Rice Set
+1394,1394,Wingstop,Boneless Wings Meal
+1395,1395,Wingstop,Classic Wings Meal
+1396,1396,Wingstop,Flavor Krezz Krezz
+1397,1397,Wingstop,Rice Set without Drink
+1398,1398,Wingstop,Mixed Wings with Rice
+1399,1399,Wingstop,Boneless Wings with Rice
+1400,1400,Wingstop,Crunchy Wings with Rice
+1401,1401,Wingstop,Classic Wings with Rice
+1402,1402,Wingstop,Flavor Corn
+1403,1403,Wingstop,Spicy Voodoo Fries
+1404,1404,Wingstop,Cheesy Voodoo Fries
+1405,1405,Wingstop,Cheese Fries
+1406,1406,Wingstop,Skin On Fries
+1407,1407,Wingstop,Mushroom Fritters
+1408,1408,Wingstop,Onion Rings
+1409,1409,Wingstop,Chicken Bites
+1410,1410,Wingstop,Chicken Soup
+1411,1411,Wingstop,Original Rice (M)
+1412,1412,Wingstop,Cajun Rice (M)
+1413,1413,Wingstop,Butter Rice (M)
+1414,1414,Wingstop,Veggie Sticks
+1415,1415,Wingstop,Dips: Cheese/Creamy Ranch/Honey Mustard
+1416,1416,Wingstop,Churros 5 pcs
+1417,1417,Wingstop,Chicken Wrap
+1418,1418,Wingstop,Double Choco Melt
+1419,1419,Wingstop,Party Set 12 pcs
+1420,1420,Wingstop,Party Set 28 pcs
+1421,1421,Wingstop,Blewah Delight
+1422,1422,Wingstop,Flavor Blast
+1423,1423,Wingstop,Tea Shake
+1424,1424,Wingstop,Soft Drink
+1425,1425,Wingstop,Iced Lemon Tea
+1426,1426,Wingstop,Iced Blackcurrant
+1427,1427,Wingstop,Iced Green Tea
+1428,1428,Wingstop,Iced Lemonade
+1429,1429,Wingstop,Iced Milo
+1430,1430,Wingstop,Teh Pucuk Harum
+1431,1431,Wingstop,Mineral Water
