@@ -9,6 +9,7 @@
 ## References
 * https://www.researchgate.net/publication/308384822_JUNK_FOOD_IMPACT_ON_HEALTH
 * https://serpapi.com/blog/scrape-google-images-with-python/
+* https://www.kaggle.com/code/mayank2896/vegetable-classification-computer-vision
 * https://testdriven.io/tips/34676c2c-927a-4256-8393-1df736ee7ce1/
 * https://towardsdatascience.com/multi-label-text-classification-using-bert-and-tensorflow-d2e88d8f488d
 * https://pbpython.com/categorical-encoding.html
