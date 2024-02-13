@@ -1,3 +1,10 @@
+## Food Classification Model using TensorFlow
+
+This project aims to develop a classification model for detecting various types of food using TensorFlow. The dataset comprises images of junk food obtained through web scraping from Google. 
+
+The goal is to train a machine learning model that can accurately classify different types of junk food, enabling applications in dietary analysis, health monitoring, and food recognition systems.
+
+
 # Note :
 ### For the Junkfood Classification Final Model, it's in the Master branch
 
